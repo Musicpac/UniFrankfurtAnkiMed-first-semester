@@ -8812,8 +8812,8 @@
                                         "congenitus",
                                         "angeboren",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "poj2g(1g((",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -8916,8 +8916,8 @@
                                         "cornu",
                                         "Horn",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "hyA6Jx}us:",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -10138,8 +10138,8 @@
                                         "Fibrom",
                                         "bösart. Bindegewebstumor",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "Il?]1O-Hb)",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -13986,8 +13986,8 @@
                                         "psoas",
                                         "Lendenmuskel",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "F$8FH{(Yl?",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -16601,8 +16601,8 @@
                                         "velum",
                                         "Segel, segelförmig",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "ip3]?cP(~k",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -16770,8 +16770,8 @@
                                         "villus",
                                         "zottiges Haar",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "oq+X@%Qb;P",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -23161,10 +23161,10 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Welche Knochenypen gibt es?",
-                                        "<b>Ossa longa&nbsp;</b>(Röhrenknochen)<br><b>Ossa brevia&nbsp;</b>(kurze Knochen / z.B. HWK o. FWK)<br><b>Ossa plana</b>&nbsp;(platte Knochen / z.B. Scapula, Sternum, Schädelknochen)<br><b>Ossa pneumatica</b>&nbsp;(luftgefüllte Knochen ( z.B. Nasennebenhölen)<br><b>Ossa irregularia</b>&nbsp;(unregelmäßig, keiner Form entsprechend / z.B. Wirbelörper)",
+                                        "<ol><li><b>Ossa longa&nbsp;</b>(Röhrenknochen)</li><li><b>Ossa brevia&nbsp;</b>(kurze Knochen / z.B. Handwurzelknochen o. Fußwurzelknochen)</li><li><b>Ossa plana</b>&nbsp;(platte Knochen / z.B. Scapula, Sternum, Schädelknochen)</li><li><b>Ossa pneumatica</b>&nbsp;(luftgefüllte Knochen ( z.B. Nasennebenhöhlen))</li><li><b>Ossa irregularia</b>&nbsp;(unregelmäßig, keiner Form entsprechend / z.B. Wirbelkörper)</li></ol>",
                                         "",
-                                        "",
-                                        ""
+                                        "Histo Knochen",
+                                        "Sisyphos"
                                     ],
                                     "guid": "O|KeqT#Kj>",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -35069,8 +35069,8 @@
                                                 "Hüftgelenk",
                                                 "<img src=\"Bildschirmfoto 2022-11-26 um 21.48.33.png\" width=\"1300\"><br><img src=\"Bild 26.11.22 um 21.47.jpg\" width=\"1300\">",
                                                 "",
-                                                "",
-                                                ""
+                                                "Gelenke",
+                                                "Sisyphos"
                                             ],
                                             "guid": "Mi>,X>sure",
                                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -36596,13 +36596,13 @@
                                         "cb144e0939e94673948bd3b94ccc30cc-ao-4",
                                         "Tibia und fibula",
                                         "<img src=\"IMG_963AC41F71C3-1.jpeg\">",
-                                        "<img src=\"cb144e0939e94673948bd3b94ccc30cc-ao-4-Q.svg\" />",
+                                        "<img src=\"cb144e0939e94673948bd3b94ccc30cc-ao-4-Q.svg\">",
                                         "",
-                                        "- Amphiarthrose (Echtes Gelenk -&gt; straffes Gelenk, da Bewegungsumfang durch feste Bänder stark limitiert)<br><br>Bänder hier:&nbsp;<br>- Lig. capitis fibulare ant. &amp; post.",
+                                        "- Amphiarthrose (Echtes Gelenk → straffes Gelenk, da Bewegungsumfang durch feste Bänder stark limitiert)<br><br>Bänder hier:&nbsp;<br>- Lig. capitis fibulare ant. &amp; post.",
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"cb144e0939e94673948bd3b94ccc30cc-ao-4-A.svg\" />",
+                                        "<img src=\"cb144e0939e94673948bd3b94ccc30cc-ao-4-A.svg\">",
                                         "<img src=\"cb144e0939e94673948bd3b94ccc30cc-ao-O.svg\">"
                                     ],
                                     "guid": "myQO~9FQA[",
@@ -45363,10 +45363,10 @@
                     "__type__": "Note",
                     "fields": [
                         "Welche Rolle spielt der Mannose-6-Phosphat-Rezeptor?",
-                        "Bindung von sauren Hydrolasen mit Mannose-6-Phosphat Signal im TGN, über Interaktion mit Clathrin Aufnahme in primäre Lysosomen",
+                        "Bindung von sauren Hydrolasen mit Mannose-6-Phosphat Signal im TGN,<br>∟ über Interaktion mit Clathrin Aufnahme in primäre Lysosomen",
                         "",
-                        "",
-                        ""
+                        "Zellprozesse",
+                        "Sisyphos"
                     ],
                     "guid": "Pkft@h-JIL",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -45882,11 +45882,11 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"5dbc3db2-6f51-4939-86b6-b9578ddb1d5f\" class=\"toggle\"><li><details><summary>Intermediärfilamente im Kern </summary><div><p class=\"\" id=\"51f78d5e-ec6a-45d8-847f-a9d01f45f5a7\">Intermediärfilamente der Kerns= Kernlamina (nukleoläre Lamina) </p><p class=\"\" id=\"44488633-4038-4e61-b430-e791d00badec\">Liegen der Kernhülle innen als dünne Matte auf </p><p class=\"\" id=\"a6dade98-ef65-4f3b-a314-e3bde2060ff2\">Stabilisieren die Kernhülle und Anheftung des Chromatins </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"51f78d5e-ec6a-45d8-847f-a9d01f45f5a7\">Intermediärfilamente der Kerns= Kernlamina (nukleoläre Lamina) </p><p class=\"\" id=\"44488633-4038-4e61-b430-e791d00badec\">Liegen der Kernhülle innen als dünne Matte auf </p><p class=\"\" id=\"a6dade98-ef65-4f3b-a314-e3bde2060ff2\">Stabilisieren die Kernhülle und Anheftung des Chromatins </p>",
+                        "Intermediärfilamente im Kern",
+                        "<ul><li>Intermediärfilamente der Kerns = Kernlamina (nukleoläre Lamina)\n</li><li>Liegen der Kernhülle innen als dünne Matte auf\n</li><li>Stabilisieren die Kernhülle und Anheftung des Chromatins</li></ul>",
                         "",
-                        "",
-                        ""
+                        "Cytoskelett",
+                        "Sisyphos"
                     ],
                     "guid": "iWiZX,<&%h",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -45908,11 +45908,11 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"87648dde-d921-4131-a0f0-69851b2e020f\" class=\"toggle\"><li><details><summary>Organisation der Mikrotubuli in der Interphase </summary><div><p class=\"\" id=\"1d7c6a91-a78c-428d-b336-596628c1ff92\">Mit ihrem Minus- Ende an einem Microtubule Organizing Center verankert → bei Menschen und Tieren: Centrosomen </p><p class=\"\" id=\"35f2c930-a3aa-4bc8-b897-6ac5dece633c\">Lage des Centrosomen: nahe des Zellkerns </p><p class=\"\" id=\"06c298a2-6d44-4dd7-94cf-bf3ecc5696d7\">Aufbau: aus einer Proteinmatrix, in die ein Paar von Centriolen eingebettet ist </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"1d7c6a91-a78c-428d-b336-596628c1ff92\">Mit ihrem Minus- Ende an einem Microtubule Organizing Center verankert → bei Menschen und Tieren: Centrosomen </p><p class=\"\" id=\"35f2c930-a3aa-4bc8-b897-6ac5dece633c\">Lage des Centrosomen: nahe des Zellkerns </p><p class=\"\" id=\"06c298a2-6d44-4dd7-94cf-bf3ecc5696d7\">Aufbau: aus einer Proteinmatrix, in die ein Paar von Centriolen eingebettet ist </p>",
+                        "Organisation der Mikrotubuli in der Interphase",
+                        "<ul><li>Mit ihrem Minus-Ende an einem Microtubule Organizing Center verankert → bei Menschen und Tieren: Centrosomen\n</li><li>Lage des Centrosomen: nahe des Zellkerns\n</li><li>Aufbau: aus einer Proteinmatrix, in die ein Paar von Centriolen eingebettet ist</li></ul>",
                         "",
-                        "",
-                        ""
+                        "Cytoskelett",
+                        "Sisyphos"
                     ],
                     "guid": "qPKtw`YUoA",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -47304,6 +47304,19 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Elektronegativität",
+                                "<ul><li>Wie stark Atome die kovalenten Bindungselektronen anziehen\n</li><li>Je größer die Kernladungszahl und kleiner der Atomradius, desto größer ist die EN\n</li><li>Nimmt innerhalb einer Periode von links nach rechts zu\n</li><li>Nimmt innerhalb einer Gruppe von oben nach unten ab\n</li><li>Fluor: am elektronegativsten</li></ul>",
+                                "",
+                                "Bindungen",
+                                "Sisyphos"
+                            ],
+                            "guid": "psUsyOy~r5",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "Einfach- und Mehrfachbindungen",
                                 "<ul><li>Einfachbindungen: ein bindendes Elektronenpaar\n</li><li>Mehrfachbindungen: mehrere bindende Elektronenpaare\n</li><li>Sigma-Bindungen: Molekülorbital in Richtung der beiden Atomkerne, also auf der Achse dazwischen\n</li><li>Pi-Bindungen: Molekülorbital überlappt das Sigmaorbital seitlich und steht senkrecht dazu</li></ul>",
                                 "",
@@ -47863,6 +47876,19 @@
                     "newLimit": null,
                     "newLimitToday": null,
                     "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Woran erkenne ich anhand von K<sub>c</sub>, ob eine Reaktion vollständig abläuft?",
+                                "Wenn eine Reaktion <b>vollständig </b>abläuft, liegt sie im <b>Gleichgewicht</b>.",
+                                "",
+                                "Gleichgewicht",
+                                "Sisyphos"
+                            ],
+                            "guid": "suk8A(S~4k",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
                         {
                             "__type__": "Note",
                             "fields": [
@@ -49051,8 +49077,8 @@
                                         "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_143.png\" width=\"1000\">",
                                         "Carvon<br>Riecht nach Minze bzw. Kümmel → Bestes Beispiel von Enantiomere L- riecht nach Minze D- riecht nach Kümmel<br><div>Das ist ein Eigennamen. Den muss man leider einfach auswendig lernen&nbsp;</div>",
                                         "",
-                                        "",
-                                        ""
+                                        "Strukturformeln",
+                                        "Sisyphos"
                                     ],
                                     "guid": "m/7a1idcN?",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -49063,11 +49089,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_145.png\">",
+                                        "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_145.png\" width=\"1000\">",
                                         "Formaldehyd / Methanal",
                                         "",
-                                        "",
-                                        ""
+                                        "Strukturformeln",
+                                        "Sisyphos"
                                     ],
                                     "guid": "vXHQqm5rR!",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -51216,6 +51242,19 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Ameisensäure",
+                                "CH<sub>2</sub>O<sub>2</sub>",
+                                "",
+                                "Substanzen",
+                                "Sisyphos"
+                            ],
+                            "guid": "ploEcE/$0a",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "Essigsäure",
                                 "CH<sub>3</sub>COOH",
                                 "",
@@ -51390,19 +51429,6 @@
                     "newLimit": null,
                     "newLimitToday": null,
                     "notes": [
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<ul id=\"ec2b4a28-455c-4aad-a6fc-30b65ce52867\" class=\"toggle\"><li><details><summary>Ameisensäure </summary><div><p class=\"\" id=\"9d611afe-e71d-4120-9947-6b4e305af4f3\">C2H5COOH</p></div></details></li></ul>",
-                                "<p class=\"\" id=\"9d611afe-e71d-4120-9947-6b4e305af4f3\">CH2O2</p>",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "ploEcE/$0a",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
                         {
                             "__type__": "Note",
                             "fields": [
@@ -51581,19 +51607,6 @@
                                 "Sisyphos"
                             ],
                             "guid": "IB8z=Sc~;9",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<ul id=\"196ff2c5-b7e1-4ff6-a39f-5bd6f3fabba7\" class=\"toggle\"><li><details><summary>Ordnungs- und Massenzahl</summary><div><p class=\"\" id=\"7c5a45fa-1bc5-41a4-a954-49c7d6913c47\">Anzahl der Protonen im Kern: Ordnungszahl (Kernladungszahl)</p><p class=\"\" id=\"cb44d651-01f3-4ca4-b3b7-4e888b201eaa\">Alle Atome des gleichen Elements: gleiche Ordnungszahl </p><p class=\"\" id=\"f2614eca-ebb1-4561-834f-cbe4451a5799\">Gesamtzahl aus Protonen und Neutronen: Massenzahl </p><p class=\"\" id=\"f6bcb7b3-96c3-4a82-87b9-abc1cdf80a69\">Masse der Elektronen vernachlässigbar, weil 2000mak geringer </p></div></details></li></ul>",
-                                "<p class=\"\" id=\"7c5a45fa-1bc5-41a4-a954-49c7d6913c47\">Anzahl der Protonen im Kern: Ordnungszahl (Kernladungszahl)</p><p class=\"\" id=\"cb44d651-01f3-4ca4-b3b7-4e888b201eaa\">Alle Atome des gleichen Elements: gleiche Ordnungszahl </p><p class=\"\" id=\"f2614eca-ebb1-4561-834f-cbe4451a5799\">Gesamtzahl aus Protonen und Neutronen: Massenzahl </p><p class=\"\" id=\"f6bcb7b3-96c3-4a82-87b9-abc1cdf80a69\">Masse der Elektronen vernachlässigbar, weil 2000 mal &nbsp;geringer </p>",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "iBvgRacS&x",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         },
@@ -51919,19 +51932,6 @@
                                 "Sisyphos"
                             ],
                             "guid": "GXbCFQN.w_",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<ul id=\"ba8d1df2-0e04-48db-8e6a-c078504e39a9\" class=\"toggle\"><li><details><summary>Elektronegativität </summary><div><p class=\"\" id=\"79b34f35-9814-4e07-88a9-31d00f9f25ae\">Wie stark Atome die kovalenten Bindungselektronen anziehen </p><p class=\"\" id=\"099aa20f-1dee-41b2-ad95-f8507ef229f6\">Je größer die Kernladungszahl und kleiner der Atomradius, desto größer ist die EN </p><p class=\"\" id=\"aed1232e-1d8c-4840-828d-3bd588d2b629\">Nimmt innerhalb einer Periode von links nach rechts zu </p><p class=\"\" id=\"aedea525-a1c7-4720-87a4-37692348a9ff\">Nimmt innerhalb einer Gruppe von oben nach unten ab</p><p class=\"\" id=\"5662ba4f-0e3d-449a-b3f3-186e1a559794\">Fluor: am elektronegativsten </p></div></details></li></ul>",
-                                "<p class=\"\" id=\"79b34f35-9814-4e07-88a9-31d00f9f25ae\">Wie stark Atome die kovalenten Bindungselektronen anziehen </p><p class=\"\" id=\"099aa20f-1dee-41b2-ad95-f8507ef229f6\">Je größer die Kernladungszahl und kleiner der Atomradius, desto größer ist die EN </p><p class=\"\" id=\"aed1232e-1d8c-4840-828d-3bd588d2b629\">Nimmt innerhalb einer Periode von links nach rechts zu </p><p class=\"\" id=\"aedea525-a1c7-4720-87a4-37692348a9ff\">Nimmt innerhalb einer Gruppe von oben nach unten ab</p><p class=\"\" id=\"5662ba4f-0e3d-449a-b3f3-186e1a559794\">Fluor: am elektronegativsten </p>",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "psUsyOy~r5",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         },
@@ -52315,19 +52315,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<ul id=\"1ba8cb44-4fba-4deb-b1f4-904c0efe8ca7\" class=\"toggle\"><li><details><summary>Woran erkenne ich anhand von Kc, ob eine Reaktion vollständig abläuft? </summary><div><p class=\"\" id=\"dc700cb9-49d9-4b00-a1c1-9974536eae8b\">Wenn eine Reaktion <strong>vollständig</strong> abläuft, liegt sie im <strong>Gleichgewicht</strong>. </p></div></details></li></ul>",
-                                "<p class=\"\" id=\"dc700cb9-49d9-4b00-a1c1-9974536eae8b\">Wenn eine Reaktion <strong>vollständig</strong> abläuft, liegt sie im <strong>Gleichgewicht</strong>. </p>",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "suk8A(S~4k",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Einfluss von Druck",
                                 "<div style=\"text-align: left;\"><b><u>Allgemein</u></b></div><div style=\"text-align: left;\">Erhöhung des Drucks führt zur Verminderung des Volumens.</div><div style=\"text-align: left;\">∟ weniger Platz für die Teilchen verfügbar.</div><div style=\"text-align: left;\">→ Dementsprechend muss die Teilchenzahl reduziert werden und das Gleichgewicht verschiebt sich auf die Seite der Reaktion, die die Teilchen vermindert.</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Eine Erniedrigung des Drucks sorgt für eine Vergrößerung des Volumes.</div><div style=\"text-align: left;\">∟Teilchen haben, gerade bei Gasreaktionen, mehr Platz</div><div style=\"text-align: left;\">→ Reaktion verschiebt sich in Richtung der Reaktion, die die Teilchenzahl vergrößert.</div>",
                                 "",
@@ -52648,6 +52635,19 @@
                     "newLimit": null,
                     "newLimitToday": null,
                     "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ordnungs- und Massenzahl",
+                                "<ul><li>Anzahl der Protonen im Kern: Ordnungszahl (Kernladungszahl)\n</li><li>Alle Atome des gleichen Elements: gleiche Ordnungszahl\n</li><li>Gesamtzahl aus Protonen und Neutronen: Massenzahl\n</li><li>Masse der Elektronen vernachlässigbar, weil 2000 mal  geringer</li></ul>",
+                                "",
+                                "Radioaktivität",
+                                "Sisyphos"
+                            ],
+                            "guid": "iBvgRacS&x",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
                         {
                             "__type__": "Note",
                             "fields": [
