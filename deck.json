@@ -47304,19 +47304,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Elektronegativität",
-                                "<ul><li>Wie stark Atome die kovalenten Bindungselektronen anziehen\n</li><li>Je größer die Kernladungszahl und kleiner der Atomradius, desto größer ist die EN\n</li><li>Nimmt innerhalb einer Periode von links nach rechts zu\n</li><li>Nimmt innerhalb einer Gruppe von oben nach unten ab\n</li><li>Fluor: am elektronegativsten</li></ul>",
-                                "",
-                                "Bindungen",
-                                "Sisyphos"
-                            ],
-                            "guid": "psUsyOy~r5",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Einfach- und Mehrfachbindungen",
                                 "<ul><li>Einfachbindungen: ein bindendes Elektronenpaar\n</li><li>Mehrfachbindungen: mehrere bindende Elektronenpaare\n</li><li>Sigma-Bindungen: Molekülorbital in Richtung der beiden Atomkerne, also auf der Achse dazwischen\n</li><li>Pi-Bindungen: Molekülorbital überlappt das Sigmaorbital seitlich und steht senkrecht dazu</li></ul>",
                                 "",
@@ -47324,6 +47311,19 @@
                                 "Sisyphos"
                             ],
                             "guid": "b&nF)/Ypp!",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Elektronegativität",
+                                "<ul><li>Wie stark Atome die kovalenten Bindungselektronen anziehen\n</li><li>Je größer die Kernladungszahl und kleiner der Atomradius, desto größer ist die EN\n</li><li>Nimmt innerhalb einer Periode von links nach rechts zu\n</li><li>Nimmt innerhalb einer Gruppe von oben nach unten ab\n</li><li>Fluor: am elektronegativsten</li></ul>",
+                                "",
+                                "Bindungen",
+                                "Sisyphos"
+                            ],
+                            "guid": "psUsyOy~r5",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         }
@@ -47879,19 +47879,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Woran erkenne ich anhand von K<sub>c</sub>, ob eine Reaktion vollständig abläuft?",
-                                "Wenn eine Reaktion <b>vollständig </b>abläuft, liegt sie im <b>Gleichgewicht</b>.",
-                                "",
-                                "Gleichgewicht",
-                                "Sisyphos"
-                            ],
-                            "guid": "suk8A(S~4k",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Wo liegt das Gleichgewicht?",
                                 "Ist Kc größer als 1, liegt das Gleichgewicht auf der Seite der Produkte.\n<br>Ist Kc kleiner als 1, liegt das Gleichgewicht auf der Seite der Edukte.",
                                 "",
@@ -47912,6 +47899,19 @@
                                 "Sisyphos"
                             ],
                             "guid": "B>e7VsQa)&",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Woran erkenne ich anhand von K<sub>c</sub>, ob eine Reaktion vollständig abläuft?",
+                                "Wenn eine Reaktion <b>vollständig </b>abläuft, liegt sie im <b>Gleichgewicht</b>.",
+                                "",
+                                "Gleichgewicht",
+                                "Sisyphos"
+                            ],
+                            "guid": "suk8A(S~4k",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         }
@@ -51242,19 +51242,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Ameisensäure",
-                                "CH<sub>2</sub>O<sub>2</sub>",
-                                "",
-                                "Substanzen",
-                                "Sisyphos"
-                            ],
-                            "guid": "ploEcE/$0a",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Essigsäure",
                                 "CH<sub>3</sub>COOH",
                                 "",
@@ -51405,6 +51392,19 @@
                                 "Sisyphos"
                             ],
                             "guid": "O*AlDy`Gl.",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ameisensäure",
+                                "CH<sub>2</sub>O<sub>2</sub>",
+                                "",
+                                "Substanzen",
+                                "Sisyphos"
+                            ],
+                            "guid": "ploEcE/$0a",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         }
@@ -53142,6 +53142,7 @@
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
             "name": "MusicPac IO Tall",
+            "originalStockKind": 1,
             "req": [
                 [
                     0,
@@ -53343,6 +53344,7 @@
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
             "name": "MusicPac IO Wide",
+            "originalStockKind": 1,
             "req": [
                 [
                     0,
@@ -53408,7 +53410,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Einfach",
+            "name": "Einfach-f3df8",
             "originalStockKind": 1,
             "req": [
                 [
