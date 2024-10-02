@@ -335,7 +335,7 @@
                                         "",
                                         "",
                                         "<img src=\"50cc1594101f4108927ca7c40b948f79-ao-11-A.svg\">",
-                                        "<img src=\"50cc1594101f4108927ca7c40b948f79-ao-O.svg\" />"
+                                        "<img src=\"50cc1594101f4108927ca7c40b948f79-ao-O.svg\">"
                                     ],
                                     "guid": "bjNiI&a)BE",
                                     "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
@@ -7226,8 +7226,8 @@
                                         "-aesthesie",
                                         "Empfindung",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "qRhC,D4X[i",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -7330,8 +7330,8 @@
                                         "allo-",
                                         "anders",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "vyR/lG@wKq",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -8136,8 +8136,8 @@
                                         "bucca",
                                         "Wange, Backe, Mund",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "f/=q&C==I%",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -8396,8 +8396,8 @@
                                         "cerebelum",
                                         "Kleinhirn",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "wi5jJIQ~>~",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -8422,8 +8422,8 @@
                                         "cervix",
                                         "Nacken, Hals",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "fNil[ox795",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -9163,8 +9163,8 @@
                                         "daktylos",
                                         "Finger",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "wH{B<8hU?`",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -13620,10 +13620,10 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "phlebs",
-                                        "Ader, Vene",
+                                        "Vene",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "Pm4npeWaBG",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -13856,8 +13856,8 @@
                                         "praecox",
                                         "vorzeitig",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "j.AL4w(CEA",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -14400,10 +14400,10 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "rima",
-                                        "Spalt, Ritze",
+                                        "Spalte, Ritze",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "s+Ne7$nmn@",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -15130,8 +15130,8 @@
                                         "splenius",
                                         "wulst-, pflasterförmig",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "G0O6m(x,u5",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -15444,8 +15444,8 @@
                                         "suspensorius",
                                         "dem Aufhängen dienend",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "DIRpEW:Bv?",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -15819,10 +15819,10 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "tergum",
-                                        "rückwärtes",
+                                        "Rücken, rückwärts",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "D=MGs9nfC^",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -16185,8 +16185,8 @@
                                         "trochanter",
                                         "Rollhügel",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "jg7^#%?ZUq",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -21984,11 +21984,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "In welche Gruppen kann man Drüsen einteilen",
-                                        "<div style=\"text-align: left;\"><b>Exokrine Drüsen</b></div><div style=\"text-align: left;\">- geben Sekrete über Ausführungsgänge an innere/äupere Körperoberflächen ab</div><div style=\"text-align: left;\">- haben Öffnungsgang und somit Kontakt zur Oberfläche</div><div><div style=\"text-align: left;\">- Merokrine Sekretion (Ekkrine Drüsen), Apokrine Sekretion, Holokrine Sekretion&nbsp;</div><div style=\"text-align: left;\">- Beispiel: Speicheldrüse</div><div style=\"text-align: left;\"><br></div><b><div style=\"text-align: left;\"><b>Endokrine Drüsen</b></div></b><div style=\"text-align: left;\">- geben Sekrete an blutgefäße ab</div><div style=\"text-align: left;\">- keinen direkten Kontakt zur Oberfläche</div><div style=\"text-align: left;\">- beispiel: Schilddrüse</div></div>",
+                                        "In welche Gruppen kann man Drüsen einteilen?",
+                                        "<div style=\"text-align: left;\"><b>Exokrine Drüsen</b></div><div style=\"text-align: left;\">- geben Sekrete über Ausführungsgänge an innere/äußere Körperoberflächen ab</div><div style=\"text-align: left;\">- haben Öffnungsgang und somit Kontakt zur Oberfläche</div><div><div style=\"text-align: left;\">- Merokrine Sekretion (Ekkrine Drüsen), Apokrine Sekretion, Holokrine Sekretion&nbsp;</div><div style=\"text-align: left;\">- Beispiel: Speicheldrüse</div><div style=\"text-align: left;\"><br></div><b><div style=\"text-align: left;\"><b>Endokrine Drüsen</b></div></b><div style=\"text-align: left;\">- geben Sekrete an Blutgefäße ab</div><div style=\"text-align: left;\">- keinen direkten Kontakt zur Oberfläche</div><div style=\"text-align: left;\">- Beispiel: Schilddrüse</div></div>",
                                         "<img src=\"IMG_8FCC2A068395-1.jpeg\" width=\"800\">",
-                                        "",
-                                        ""
+                                        "Histo Drüsen",
+                                        "Sisyphos"
                                     ],
                                     "guid": "z$`V]E;Nk7",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -22359,10 +22359,10 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Welche drei Fasertypen gibt es in der EZM des Bindegewebes?",
-                                        "<div style=\"text-align: justify;\"><b>Kollagenfasern</b></div><div style=\"text-align: justify;\">- zugfest, kaum dehnbar</div><div style=\"text-align: justify;\">- lagern sich häufig zu Bündeln zusammen</div><div style=\"text-align: justify;\">- bestehen aus eng zusammengelagerten, parallel angeordneten Kollagenfibrillen</div><div style=\"text-align: justify;\">- verscheidene Typen Kollagen&nbsp;</div><div style=\"text-align: justify;\">- von Fibroblasten synthetisiert</div><div style=\"text-align: justify;\">- großer bestandteil der EZM</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Retikuläre Fasern</b></div></b><div style=\"text-align: justify;\">- besteht primär aus Kollagen Typ II</div><div style=\"text-align: justify;\">- ähnlicher Aufbau wie Kollagenfasern</div><div style=\"text-align: justify;\">- v.a. in Retikulärem Bindegewebe von Milz, Lymphknoten, Knochenmark</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Elastische Fasern</b></div></b><div style=\"text-align: justify;\">- können um ihre doppelte länge gedehnt werden /reversibel dehnbar)</div><div style=\"text-align: justify;\">- bestehen aus Elastin und Mikrofibrillen</div>",
+                                        "<div style=\"text-align: justify;\"><b>Kollagenfasern</b></div><div style=\"text-align: justify;\">- zugfest, kaum dehnbar</div><div style=\"text-align: justify;\">- lagern sich häufig zu Bündeln zusammen</div><div style=\"text-align: justify;\">- bestehen aus eng zusammengelagerten, parallel angeordneten Kollagenfibrillen</div><div style=\"text-align: justify;\">- verscheidene Typen Kollagen&nbsp;</div><div style=\"text-align: justify;\">- von Fibroblasten synthetisiert</div><div style=\"text-align: justify;\">- großer Bestandteil der EZM</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Retikuläre Fasern</b></div></b><div style=\"text-align: justify;\">- besteht primär aus Kollagen Typ II</div><div style=\"text-align: justify;\">- ähnlicher Aufbau wie Kollagenfasern</div><div style=\"text-align: justify;\">- v.a. in Retikulärem Bindegewebe von Milz, Lymphknoten, Knochenmark</div><div style=\"text-align: justify;\"><br></div><b><div style=\"text-align: justify;\"><b>Elastische Fasern</b></div></b><div style=\"text-align: justify;\">- können um ihre doppelte länge gedehnt werden / reversibel dehnbar)</div><div style=\"text-align: justify;\">- bestehen aus Elastin und Mikrofibrillen</div>",
                                         "",
-                                        "",
-                                        ""
+                                        "Histo Bindegewebe",
+                                        "Sisyphos"
                                     ],
                                     "guid": "x~N}{$50So",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -22424,10 +22424,10 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Funktionen von Epithelgewebe",
-                                        "\n\n- Schutz<br>- Resorbtion (Aufnahme)<br>- Sekretion (Absonderung von Stoffen, die noch eine bestimmte AUfgabe erfüllen)<br>- Exkretion (Müll raus)<br>- Gleiten<br>- Gasaustausch<br>- Transport",
+                                        "<ol><li>Schutz</li><li>Resorbtion (Aufnahme)</li><li>Sekretion (Absonderung von Stoffen, die noch eine bestimmte Aufgabe erfüllen)</li><li>Exkretion (Müll raus)</li><li>Gleiten</li><li>Gasaustausch</li><li>Transport</li></ol>",
                                         "",
-                                        "",
-                                        ""
+                                        "Histo Epithel",
+                                        "Sisyphos"
                                     ],
                                     "guid": "td2RqkOKQX",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -23012,10 +23012,10 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Warum ist Muskulatur vielkernig?",
-                                        "- in Entwicklung verschmilzen Myoblasten (Muskelvorläuferzellen) und behalten die zellkerne<br>- Muskelfaser ist ein Synzytium",
+                                        "- in Entwicklung verschmilzen Myoblasten (Muskelvorläuferzellen) und behalten die Zellkerne<br>- Muskelfaser ist ein Synzytium",
                                         "",
-                                        "",
-                                        ""
+                                        "Histo Muskel",
+                                        "Sisyphos"
                                     ],
                                     "guid": "u(tzdxe<-Y",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -23866,8 +23866,8 @@
                                                 "Schultergelenk",
                                                 "<div style=\"text-align: center;\"><img src=\"Bildschirmfoto 2022-11-22 um 20.57.32.png\" width=\"1300\"><br></div><div style=\"text-align: center;\"><img src=\"Bildschirmfoto 2022-11-22 um 20.43.55.png\" width=\"1300\"><br></div>",
                                                 "",
-                                                "",
-                                                ""
+                                                "Gelenke",
+                                                "Sisyphos"
                                             ],
                                             "guid": "d^#BqWZ(gy",
                                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -26122,7 +26122,7 @@
                                         "",
                                         "",
                                         "<img src=\"6a664508555e489fa75f7ab19b3fb128-ao-13-A.svg\">",
-                                        "<img src=\"6a664508555e489fa75f7ab19b3fb128-ao-O.svg\" />"
+                                        "<img src=\"6a664508555e489fa75f7ab19b3fb128-ao-O.svg\">"
                                     ],
                                     "guid": "fOKoKEQ|N",
                                     "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
@@ -34181,12 +34181,12 @@
                                         "<img src=\"IMG_241D4A908ABD-1.jpeg\">",
                                         "<img src=\"184007d5381b4da2956eb975d4f084a9-ao-15-Q.svg\" />",
                                         "",
-                                        "- Knochenerhebung, die die Verbindungsstelle von Os ilium und os pubis markiert<br>- darsaler Ansatz des Arcus iliopectineus (Bogenförmiges band, das die Lacuna vasorum von lacuna musculorum abgrenzt)",
+                                        "- Knochenerhebung, die die Verbindungsstelle von Os ilium und Os pubis markiert<br>- dorsaler Ansatz des Arcus iliopectineus (Bogenförmiges Band, das die Lacuna vasorum von Lacuna musculorum abgrenzt)",
                                         "",
                                         "",
                                         "",
                                         "<img src=\"184007d5381b4da2956eb975d4f084a9-ao-15-A.svg\">",
-                                        "<img src=\"184007d5381b4da2956eb975d4f084a9-ao-O.svg\" />"
+                                        "<img src=\"184007d5381b4da2956eb975d4f084a9-ao-O.svg\">"
                                     ],
                                     "guid": "Ihfj6~y<m.",
                                     "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
@@ -35976,7 +35976,7 @@
                                         "",
                                         "",
                                         "<img src=\"2cd5778e683f4825b69a6033a73ba76f-ao-25-A.svg\">",
-                                        "<img src=\"2cd5778e683f4825b69a6033a73ba76f-ao-O.svg\" />"
+                                        "<img src=\"2cd5778e683f4825b69a6033a73ba76f-ao-O.svg\">"
                                     ],
                                     "guid": "kh(w@SNbYE",
                                     "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
@@ -36044,15 +36044,15 @@
                                     "fields": [
                                         "2cd5778e683f4825b69a6033a73ba76f-ao-29",
                                         "Untere Extremitäten",
-                                        "<img src=\"IMG_1D688300F5D2-1.jpeg\">Untere Extremitäten",
-                                        "<img src=\"2cd5778e683f4825b69a6033a73ba76f-ao-29-Q.svg\" />",
+                                        "<img src=\"IMG_1D688300F5D2-1.jpeg\">",
+                                        "<img src=\"2cd5778e683f4825b69a6033a73ba76f-ao-29-Q.svg\">",
                                         "",
                                         "",
                                         "",
                                         "",
                                         "",
                                         "<img src=\"2cd5778e683f4825b69a6033a73ba76f-ao-29-A.svg\">",
-                                        "<img src=\"2cd5778e683f4825b69a6033a73ba76f-ao-O.svg\" />"
+                                        "<img src=\"2cd5778e683f4825b69a6033a73ba76f-ao-O.svg\">"
                                     ],
                                     "guid": "mT){D5D;v6",
                                     "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
@@ -36071,7 +36071,7 @@
                                         "",
                                         "",
                                         "<img src=\"bef6ffde58a64aeabe40da650b2032ea-ao-1-A.svg\">",
-                                        "<img src=\"bef6ffde58a64aeabe40da650b2032ea-ao-O.svg\" />"
+                                        "<img src=\"bef6ffde58a64aeabe40da650b2032ea-ao-O.svg\">"
                                     ],
                                     "guid": "rvd5~/`|T/",
                                     "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
@@ -36242,7 +36242,7 @@
                                         "",
                                         "",
                                         "<img src=\"bef6ffde58a64aeabe40da650b2032ea-ao-10-A.svg\">",
-                                        "<img src=\"bef6ffde58a64aeabe40da650b2032ea-ao-O.svg\" />"
+                                        "<img src=\"bef6ffde58a64aeabe40da650b2032ea-ao-O.svg\">"
                                     ],
                                     "guid": "p.vd^pmNUx",
                                     "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
@@ -36375,7 +36375,7 @@
                                         "",
                                         "",
                                         "<img src=\"bef6ffde58a64aeabe40da650b2032ea-ao-17-A.svg\">",
-                                        "<img src=\"bef6ffde58a64aeabe40da650b2032ea-ao-O.svg\" />"
+                                        "<img src=\"bef6ffde58a64aeabe40da650b2032ea-ao-O.svg\">"
                                     ],
                                     "guid": "mGK2zK:8N*",
                                     "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
@@ -37002,7 +37002,7 @@
                                         "",
                                         "",
                                         "<img src=\"0f81b0205a5e4dcb98d8660d73d79d05-ao-2-A.svg\">",
-                                        "<img src=\"0f81b0205a5e4dcb98d8660d73d79d05-ao-O.svg\" />"
+                                        "<img src=\"0f81b0205a5e4dcb98d8660d73d79d05-ao-O.svg\">"
                                     ],
                                     "guid": "w|,2:4qT][",
                                     "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
@@ -40016,10 +40016,10 @@
                                                 "ebdc8e5f2818486484d87a254aff2c63-ao-8",
                                                 "Aüßere Hüftmuskulatur",
                                                 "<img src=\"IMG_4730.jpg\">",
-                                                "<img src=\"ebdc8e5f2818486484d87a254aff2c63-ao-8-Q.svg\" />",
+                                                "<img src=\"ebdc8e5f2818486484d87a254aff2c63-ao-8-Q.svg\">",
                                                 "",
                                                 "",
-                                                "<u><b>M. gluteus maximus (1)</b></u><br>→ größter Muskel im menschlichen Körper (Volumen)<br>→&nbsp; Springen, Gehen, Aufstehen (Ausfall macht v.a. Treppensteigen unmöglich)<br><b><br>Ursprung:&nbsp;<br></b>- Facies dorsalis des Os sacrum<br>- hinterer Teil der Facies glutea das Os ilium (hinter Linea glutea posterius)<br>- Fascia thoracolumbalis<br>- mit tiefen Fasern am Lig. sacrotuberale<br><br><b>Ansatz:&nbsp;<br></b>- kraniale Fasern: Tractus iliotibialis<br>- kaudal verlaufende Fasern: Tuberositas glutea<br><br><b>Funktion:&nbsp;</b><br>- gesamter Muskel:&nbsp;<br>&nbsp; &nbsp; &nbsp;→ Extension und Außenrotation im Hüftgelenk<br>&nbsp; &nbsp; &nbsp;→ stabilisiert Hüftgelenk in Saggital- und frontalebene<br>- kraniale Fasern: Abduktion<br>- kaudale Fasern: Adduktion<br><br><b>Innervation:<br></b>- N. gluteus inferior (L5-S2)<br><br><br><img src=\"IMG_B7ED72E36467-1.jpeg\">",
+                                                "<u><b>M. gluteus maximus (1)</b></u><br>→ größter Muskel im menschlichen Körper (Volumen)<br>→&nbsp; Springen, Gehen, Aufstehen (Ausfall macht v.a. Treppensteigen unmöglich)<br><b><br>Ursprung:&nbsp;<br></b>- Facies dorsalis des Os sacrum<br>- hinterer Teil der Facies glutea das Os ilium (hinter Linea glutea posterius)<br>- Fascia thoracolumbalis<br>- mit tiefen Fasern am Lig. sacrotuberale<br><br><b>Ansatz:&nbsp;<br></b>- kraniale Fasern: Tractus iliotibialis<br>- kaudal verlaufende Fasern: Tuberositas glutea<br><br><b>Funktion:&nbsp;</b><br>- gesamter Muskel:&nbsp;<br>&nbsp; &nbsp; &nbsp;→ Extension und Außenrotation im Hüftgelenk<br>&nbsp; &nbsp; &nbsp;→ stabilisiert Hüftgelenk in Saggital- und frontalebene<br>- kraniale Fasern: Abduktion<br>- kaudale Fasern: Adduktion<br><br><b>Innervation:<br></b>- N. gluteus inferior (L5-S2)<br><br><img src=\"IMG_B7ED72E36467-1.jpeg\" width=\"400\">",
                                                 "",
                                                 "",
                                                 "<img src=\"ebdc8e5f2818486484d87a254aff2c63-ao-8-A.svg\">",
@@ -42870,10 +42870,10 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Wo treten die Spinalnerven aus?",
-                                        "- cervicaler Bereich: Spinalnervenpaare verlassen Rückenmark oberhalb des zugehörigen Wirbelkörpers<br>- restliche Spinalnerven verlassen Rückenmark unterhalb der zugehörigen Wirbelkörper",
+                                        "<div style=\"text-align: left;\">- cervicaler Bereich: Spinalnervenpaare verlassen Rückenmark oberhalb des zugehörigen Wirbelkörpers</div><div style=\"text-align: left;\">- restliche Spinalnerven verlassen Rückenmark unterhalb der zugehörigen Wirbelkörper</div>",
                                         "",
-                                        "",
-                                        ""
+                                        "Topografie Nerven",
+                                        "Sisyphos"
                                     ],
                                     "guid": "d;G73J5uPX",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -44936,6 +44936,7 @@
                 "Bildung-von-Chromatiden--1024x576.jpg",
                 "Geisselquerschnitt-1-big.jpg",
                 "IMG_05DA0B3DC902-1.jpeg",
+                "hyaluronsaeure.svg",
                 "membrantransport__2__md.jpg",
                 "paste-1157f661f688430ae433a8425e3a393806e80d41.jpg"
             ],
@@ -45050,11 +45051,11 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Was versteht man unter den Begriffen hydrophil und hydrophob?<div><br></div>",
+                        "Was versteht man unter den Begriffen hydrophil und hydrophob?",
                         "Wasserliebend/polar&nbsp;<div>Fettliebend/unpolar&nbsp;</div>",
                         "",
-                        "",
-                        ""
+                        "Kursfragen",
+                        "Sisyphos"
                     ],
                     "guid": "jcB>.6vj-o",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -45064,10 +45065,10 @@
                     "__type__": "Note",
                     "fields": [
                         "Nennen Sie bitte die drei Grundbausteine der Lipiddoppelschicht der Plasmamembran eukaryotischer Zellen.",
-                        "Phospholipide, Glycolipide, Cholesterin",
+                        "Phospholipide, Glykolipide, Cholesterin",
                         "",
-                        "",
-                        ""
+                        "Kursfragen",
+                        "Sisyphos"
                     ],
                     "guid": "K`Dh3Qd5HK",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -45183,8 +45184,8 @@
                         "Nach welchem Schema sind die Basalkörper von Cilien und Geißeln aufgebaut?",
                         "9 Mikrotubulitripletts im Kreis",
                         "",
-                        "",
-                        ""
+                        "Zellorganelle",
+                        "Sisyphos"
                     ],
                     "guid": "j(L7II?=4w",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -45934,11 +45935,11 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"d84b06cb-0e5b-4034-a0a5-b0ec5332800b\" class=\"toggle\"><li><details><summary>Cilien </summary><div><p class=\"\" id=\"0323f180-0ebb-4cc5-83ea-56e9c731f2a7\">Identischer Aufbau wie Flagellen, aber deutlich kürzer </p><p class=\"\" id=\"a8d82174-fc23-403d-b4dc-8f73dc49730c\">Auftreten meist dicht gepackt und in großer Zah</p><p class=\"\" id=\"68e519a3-7dd7-49d6-9605-86480524949b\">Länge: 10nm  </p><p class=\"\" id=\"1560070d-677f-47d2-aaf8-f57921ba046b\">Nutzung zur Nahrungsaufnahme, im respiratorischen Epithel oder dem Ovidukt </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"0323f180-0ebb-4cc5-83ea-56e9c731f2a7\">Identischer Aufbau wie Flagellen, aber deutlich kürzer </p><p class=\"\" id=\"a8d82174-fc23-403d-b4dc-8f73dc49730c\">Auftreten meist dicht gepackt und in großer Zah</p><p class=\"\" id=\"68e519a3-7dd7-49d6-9605-86480524949b\">Länge: 10nm  </p><p class=\"\" id=\"1560070d-677f-47d2-aaf8-f57921ba046b\">Nutzung zur Nahrungsaufnahme, im respiratorischen Epithel oder dem Ovidukt </p>",
+                        "Cilien",
+                        "<ul><li>Identischer Aufbau wie Flagellen, aber deutlich kürzer\n</li><li>Auftreten meist dicht gepackt und in großer Zahl</li><li>Länge: 10 nm\n</li><li>Nutzung zur Nahrungsaufnahme, im respiratorischen Epithel oder dem Ovidukt</li></ul>",
                         "",
-                        "",
-                        ""
+                        "Zellorganelle",
+                        "Sisyphos"
                     ],
                     "guid": "xM-F985Z0W",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -45947,11 +45948,11 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"f96a0039-bdd3-4454-9abf-a468cc58bf07\" class=\"toggle\"><li><details><summary>Bewegungsspiele von Cilien </summary><div><p class=\"\" id=\"328bf1e8-dcb6-462c-a163-9d8b966534bc\">Bei Kraftschlag steif zur Verdängung von viel Flüssigkeit </p><p class=\"\" id=\"39233fdb-6bb5-4c71-87ae-b88e6455893d\">Rückholschlag: Cilie locker ohne viel Flüssigkeit zu verdrängen, schlängelt sich über die Plasmamembran </p><p class=\"\" id=\"fa5b3343-1144-4456-b45e-38a0d0f9fd2f\">Bewegung in die Richtung des Kraftschlages </p><p class=\"\" id=\"71a8866c-86d9-4063-93c1-9223cdb32d9a\"></p></div></details></li></ul>",
-                        "<p class=\"\" id=\"328bf1e8-dcb6-462c-a163-9d8b966534bc\">Bei Kraftschlag steif zur Verdängung von viel Flüssigkeit </p><p class=\"\" id=\"39233fdb-6bb5-4c71-87ae-b88e6455893d\">Rückholschlag: Cilie locker ohne viel Flüssigkeit zu verdrängen, schlängelt sich über die Plasmamembran </p><p class=\"\" id=\"fa5b3343-1144-4456-b45e-38a0d0f9fd2f\">Bewegung in die Richtung des Kraftschlages </p><p class=\"\" id=\"71a8866c-86d9-4063-93c1-9223cdb32d9a\"></p>",
+                        "Bewegungsspiele von Cilien",
+                        "<ul><li>Bei Kraftschlag steif zur Verdängung von viel Flüssigkeit\n</li><li>Rückholschlag: Cilie locker ohne viel Flüssigkeit zu verdrängen, schlängelt sich über die Plasmamembran\n</li><li>Bewegung in die Richtung des Kraftschlages\n</li></ul>",
                         "",
-                        "",
-                        ""
+                        "Zellprozesse",
+                        "Sisyphos"
                     ],
                     "guid": "e2t|dH@tvM",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -46025,11 +46026,11 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"f04c4884-1733-474e-82e1-0a180595847d\" class=\"toggle\"><li><details><summary>Hyaluronsäure </summary><div><p class=\"\" id=\"3332fd54-11fc-4c23-b142-8e18b5702b0d\">Besteht aus einer langen, unverzweigten, negativ geladenen Kette aus tausenden sich wiederholenden Disaccharid-Einheiten</p><p class=\"\" id=\"3f5097f9-c8dc-41b1-88b3-89f981332faa\">Glucoronsäure (Zucker mit Säurefunktion) und N-Acetylglucosamin (Aminozucker) → Glykosaminglykane </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"3332fd54-11fc-4c23-b142-8e18b5702b0d\">Besteht aus einer langen, unverzweigten, negativ geladenen Kette aus tausenden sich wiederholenden Disaccharid-Einheiten</p><p class=\"\" id=\"3f5097f9-c8dc-41b1-88b3-89f981332faa\">Glucoronsäure (Zucker mit Säurefunktion) und N-Acetylglucosamin (Aminozucker) → Glykosaminglykane </p>",
-                        "",
-                        "",
-                        ""
+                        "Hyaluronsäure",
+                        "<ul><li>Besteht aus einer langen, unverzweigten, negativ geladenen Kette aus tausenden sich wiederholenden Disaccharid-Einheiten\n</li><li>Glucoronsäure (Zucker mit Säurefunktion) und N-Acetylglucosamin (Aminozucker) → Glykosaminglykane</li></ul>",
+                        "<img alt=\"Hyaluronsäure - Anwendung, Wirkung, Nebenwirkungen | Gelbe Liste\" src=\"hyaluronsaeure.svg\" width=\"600\">",
+                        "EZM",
+                        "Sisyphos"
                     ],
                     "guid": "na75=Z5YV2",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -46363,11 +46364,11 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"dd9c8bc2-f24f-456e-ab0c-9af4846848d1\" class=\"toggle\"><li><details><summary>Erkennung und Sortierung lysosomaler Verdauungsenzyme am Golgi-Apparat </summary><div><p class=\"\" id=\"d688e908-b9ab-4d1e-a31c-49a97a1baefd\">Alle Säuren Hydrolasen: Glykoproteine und enthalten einen oder mehrere Hydrolasereste</p><p class=\"\" id=\"aa8ce6d3-aeba-4c2b-9816-406eb34eca01\">Im CGN: Phosphoilierung des 6. C-Atoms der Mannose (Zucker sind Kohlenwasserstoffe mit vielen OH-Gruppen, das heißt, sie reagieren gerne und es kann sich dementsprechend alles mögliche gut anlagern → z.B Proteine ) </p><p class=\"\" id=\"2b1abce4-8275-4057-9389-c89be01a8e65\">→ Enstehung von Mannose-6-Phosphat (6, weil am 6. C-Atom gebunden)</p><p class=\"\" id=\"882a5914-b7d6-4354-89a0-a84afb67fbb5\">→durch M6P Zuordnung zum Lysosom möglich (ähnlich wie ein Perso der quasi die Nationalität angibt) </p><p class=\"\" id=\"55550a13-71e9-49d2-ae57-ec3f9b4754b7\">→ Erkennung des M6P durch Rezeptoren am TGN </p><p class=\"\" id=\"da168e71-cfb9-4cd4-a254-0e24a1990b78\">→ Bindung lysosomaler, spezifischer Enzyme </p><p class=\"\" id=\"addd4ce6-27a4-44ff-bdb6-48ecf880537a\">→ zusammen mit Enzymen: Verpackung von Verdauungsenzymen in Enzymen und Transport zum frühen Endosomen </p><p class=\"\" id=\"ff09fce9-9a6f-47b9-8bd9-c94ec840c69c\">→ Transport des Rezeptor/Hydrolasekomlexes zum späten Endosomen </p><p class=\"\" id=\"5a081922-e683-47f8-b4a1-9e36e9815b46\">→ M6P- Rezeptoren von Verdauungsenzymen </p><p class=\"\" id=\"9112a7c6-9a3f-457a-87eb-45a638298c60\">→Reifung zu Lysosomen und Recycling des Rezeptors</p></div></details></li></ul>",
-                        "<p class=\"\" id=\"d688e908-b9ab-4d1e-a31c-49a97a1baefd\">Alle Säuren Hydrolasen: Glykoproteine und enthalten einen oder mehrere Hydrolasereste</p><p class=\"\" id=\"aa8ce6d3-aeba-4c2b-9816-406eb34eca01\">Im CGN: Phosphoilierung des 6. C-Atoms der Mannose (Zucker sind Kohlenwasserstoffe mit vielen OH-Gruppen, das heißt, sie reagieren gerne und es kann sich dementsprechend alles mögliche gut anlagern → z.B Proteine ) </p><p class=\"\" id=\"2b1abce4-8275-4057-9389-c89be01a8e65\">→ Enstehung von Mannose-6-Phosphat (6, weil am 6. C-Atom gebunden)</p><p class=\"\" id=\"882a5914-b7d6-4354-89a0-a84afb67fbb5\">→durch M6P Zuordnung zum Lysosom möglich (ähnlich wie ein Perso der quasi die Nationalität angibt) </p><p class=\"\" id=\"55550a13-71e9-49d2-ae57-ec3f9b4754b7\">→ Erkennung des M6P durch Rezeptoren am TGN </p><p class=\"\" id=\"da168e71-cfb9-4cd4-a254-0e24a1990b78\">→ Bindung lysosomaler, spezifischer Enzyme </p><p class=\"\" id=\"addd4ce6-27a4-44ff-bdb6-48ecf880537a\">→ zusammen mit Enzymen: Verpackung von Verdauungsenzymen in Enzymen und Transport zum frühen Endosomen </p><p class=\"\" id=\"ff09fce9-9a6f-47b9-8bd9-c94ec840c69c\">→ Transport des Rezeptor/Hydrolasekomlexes zum späten Endosomen </p><p class=\"\" id=\"5a081922-e683-47f8-b4a1-9e36e9815b46\">→ M6P- Rezeptoren von Verdauungsenzymen </p><p class=\"\" id=\"9112a7c6-9a3f-457a-87eb-45a638298c60\">→Reifung zu Lysosomen und Recycling des Rezeptors</p>",
+                        "Erkennung und Sortierung lysosomaler Verdauungsenzyme am Golgi-Apparat",
+                        "<ul><li>Alle Säuren Hydrolasen: Glykoproteine und enthalten einen oder mehrere Hydrolasereste </li><li>Im CGN: Phospholierung des 6. C-Atoms der Mannose </li><ul><li>∟ Zucker sind Kohlenwasserstoffe mit vielen OH-Gruppen, das heißt, sie reagieren gerne und es kann sich dementsprechend alles mögliche gut anlagern&nbsp;</li><ul><li>→ z.B Proteine</li></ul></ul><li>→ Enstehung von Mannose-6-Phosphat (6, weil am 6. C-Atom gebunden)<br></li><ul><li>→ durch M6P Zuordnung zum Lysosom möglich (ähnlich wie ein Perso der quasi die Nationalität angibt)\n</li><li>→ Erkennung des M6P durch Rezeptoren am TGN\n</li><li>→ Bindung lysosomaler, spezifischer Enzyme\n</li><li>→ zusammen mit Enzymen: Verpackung von Verdauungsenzymen in Enzymen und Transport zum frühen Endosomen\n</li><li>→ Transport des Rezeptor/Hydrolasekomlexes zum späten Endosomen\n</li><li>→ M6P- Rezeptoren von Verdauungsenzymen</li><li>→ Reifung zu Lysosomen und Recycling des Rezeptors</li></ul></ul>",
                         "",
-                        "",
-                        ""
+                        "Zellprozesse",
+                        "Sisyphos"
                     ],
                     "guid": "g{Zv$/KGJI",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -47575,6 +47576,19 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Größen zur stöchiometrischen Berechnung",
+                                "<ul><li>Stoffmengen n ( in Vielfachen / Bruchteilen von 1 Mol, oft auch mmol ) </li><li>Massen m ( für makroskopische Stoffmengen in Gramm, oft auch mg ) </li><li>Volumen V ( in Vielfachen / Bruchteilen von 1 Liter, oft auch mL ) </li><li>Konzentrationen c ( Stoffmenge n / Volumen V in mol / L oder mmol / mL ) </li><li>ggf. Dichte * ( Masse pro Volumen in in kg / dm3 bzw. g / cm3 oder g / mL )</li></ul>",
+                                "",
+                                "Grundlagen",
+                                "Sisyphos"
+                            ],
+                            "guid": "b0xNs#6%Od",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "Gesetz der konstanten und multiplen Proportionen",
                                 "<div style=\"text-align: left;\"><ul><li>Wasserstoff und Sauerstoff reagieren im Verhältnis 1:1</li><li>Beide Elemente liegen nicht als einzelne Atome, sondern als Moleküle vor</li><li>Daher reagiert ein Wasserstoffmolekül mit einem Sauerstoffmolekül zu einem Wasserstoffperoxid- Molekül</li></ul></div>",
                                 "",
@@ -48030,8 +48044,8 @@
                                         "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_13.png\" width=\"1000\">",
                                         "Cystein<div>Hat ein Schwefelatom im Molekül</div>",
                                         "",
-                                        "",
-                                        ""
+                                        "Strukturformeln",
+                                        "Sisyphos"
                                     ],
                                     "guid": "GJj/wd_.&R",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -51432,11 +51446,11 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<ul id=\"73d5fd46-aea3-4c0f-9ab4-f47b1e4d7706\" class=\"toggle\"><li><details><summary>Autoprotolyse </summary><div><p class=\"\" id=\"1ff220c6-2cbf-44b7-9d4c-26cd11df58a1\">Protolyse zweier gleichartiger Teilchen </p></div></details></li></ul>",
-                                "<p class=\"\" id=\"1ff220c6-2cbf-44b7-9d4c-26cd11df58a1\">Protolyse zweier gleichartiger Teilchen </p>",
+                                "Autoprotolyse",
+                                "Eigendissoziation des Wassers<br>\\[H_2O + H_2O \\rightleftharpoons H_3O^+ +OH^-\\]<br>",
                                 "",
-                                "",
-                                ""
+                                "Säure Base",
+                                "Sisyphos"
                             ],
                             "guid": "G,UTAB?iyg",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -51504,6 +51518,19 @@
                                 "Sisyphos"
                             ],
                             "guid": "d@UBV@UE%l",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ampholyt",
+                                "Kann sowohl als Säure als auch als Base reagieren",
+                                "",
+                                "Säure Base",
+                                "Sisyphos"
+                            ],
+                            "guid": "z=8zY.,ro5",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         },
@@ -52094,19 +52121,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<ul id=\"38833ea9-b505-4572-a94f-a5a3d6179c8b\" class=\"toggle\"><li><details><summary>Größen zur stöchiometrischen Berechnung  </summary><div><p class=\"\" id=\"c9f6eefd-1d86-4af9-b956-15a2ddc98699\">• Stoffmengen n ( in Vielfachen / Bruchteilen von 1 Mol, oft auch mmol )\n• Massen m ( für makroskopische Stoffmengen in Gramm, oft auch mg )\n• Volumen V ( in Vielfachen / Bruchteilen von 1 Liter, oft auch mL )\n• Konzentrationen c ( Stoffmenge n / Volumen V in mol / L oder mmol / mL )\n• ggf. Dichte  * ( Masse pro Volumen in in kg / dm3 bzw. g / cm3 oder g / mL )</p><ul id=\"320db469-1b43-4052-8b96-b4a23a3a0205\" class=\"toggle\"><li><details><summary>Gleichgewichtsreaktionen </summary><div><p class=\"\" id=\"d59d5316-c2ed-4681-a5a2-2e0b73d4ea89\">Es entsteht ein Teil der maximal möglichen Menge an Produkten und es bleibt ein Teil der Edukte übrig. </p></div></details></li></ul><p class=\"\" id=\"d59d5316-c2ed-4681-a5a2-2e0b73d4ea89\">Es entsteht ein Teil der maximal möglichen Menge an Produkten und es bleibt ein Teil der Edukte übrig. </p></div></details></li></ul>",
-                                "<p class=\"\" id=\"c9f6eefd-1d86-4af9-b956-15a2ddc98699\">• Stoffmengen n ( in Vielfachen / Bruchteilen von 1 Mol, oft auch mmol )\n• Massen m ( für makroskopische Stoffmengen in Gramm, oft auch mg )\n• Volumen V ( in Vielfachen / Bruchteilen von 1 Liter, oft auch mL )\n• Konzentrationen c ( Stoffmenge n / Volumen V in mol / L oder mmol / mL )\n• ggf. Dichte  * ( Masse pro Volumen in in kg / dm3 bzw. g / cm3 oder g / mL )</p><ul id=\"320db469-1b43-4052-8b96-b4a23a3a0205\" class=\"toggle\"><li><details><summary>Gleichgewichtsreaktionen </summary><div><p class=\"\" id=\"d59d5316-c2ed-4681-a5a2-2e0b73d4ea89\">Es entsteht ein Teil der maximal möglichen Menge an Produkten und es bleibt ein Teil der Edukte übrig. </p></div></details></li></ul>",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "b0xNs#6%Od",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "<ul id=\"473be3ed-18d7-4317-addc-1387c44546e1\" class=\"toggle\"><li><details><summary>Gesetz der <strong>konstanten</strong> und multiplen Proportionen </summary><div><p class=\"\" id=\"1e46f697-5846-4604-a532-fe7be0d03f12\">Atome als kleine Materiekügelchen mit bestimmter Masse m und Größe r\nkönnen sich stets nur in ganzzahligen Stoffmengen-Verhältnissen verbinden !\nWasserstoff und Sauerstoff reagieren hier im Stoffmengen-Verhältnis 2 : 1 miteinander\n• Die kleinste mögliche Stoffmenge n der Elemente H und O ist 1 Atom\n• Die kleinste mögliche Stoffmenge n der Verbindung Wasser ist 1 H2O - Molekül\n• Dazu müssen jeweils 2 H-Atome mit 1 O-Atom im Verhältnis 2 : 1 reagieren</p><p class=\"\" id=\"05e5530b-6a18-4092-9d0b-73476f543739\">• Beide Elemente liegen aber nicht als einzelne Atome, sondern als Moleküle vor\n• Daher reagieren minimal 2 H2-Moleküle mit 1 O2-Molekül zu 2 H2O-Molekülen</p></div></details></li></ul>",
                                 "<p class=\"\" id=\"1e46f697-5846-4604-a532-fe7be0d03f12\">Atome als kleine Materiekügelchen mit bestimmter Masse m und Größe r\nkönnen sich stets nur in ganzzahligen Stoffmengen-Verhältnissen verbinden !\nWasserstoff und Sauerstoff reagieren hier im Stoffmengen-Verhältnis 2 : 1 miteinander\n• Die kleinste mögliche Stoffmenge n der Elemente H und O ist 1 Atom\n• Die kleinste mögliche Stoffmenge n der Verbindung Wasser ist 1 H2O - Molekül\n• Dazu müssen jeweils 2 H-Atome mit 1 O-Atom im Verhältnis 2 : 1 reagieren</p><p class=\"\" id=\"05e5530b-6a18-4092-9d0b-73476f543739\">• Beide Elemente liegen aber nicht als einzelne Atome, sondern als Moleküle vor\n• Daher reagieren minimal 2 H2-Moleküle mit 1 O2-Molekül zu 2 H2O-Molekülen</p>",
                                 "",
@@ -52354,19 +52368,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<ul id=\"266d5ea4-0cba-4acc-afee-bb36ec936d6b\" class=\"toggle\"><li><details><summary>Beispiel Nummer 1 Druck </summary><div><p class=\"\" id=\"34daf2ce-0687-4e85-ba8f-3a86ee103574\">Reaktion von <strong>Kupferhydrat</strong> und <strong>Chlorid</strong> zu <strong>Kupferchlorid</strong> </p></div></details></li></ul>",
-                                "<p class=\"\" id=\"34daf2ce-0687-4e85-ba8f-3a86ee103574\">Reaktion von <strong>Kupferhydrat</strong> und <strong>Chlorid</strong> zu <strong>Kupferchlorid</strong> </p>",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "Clq!0[#*,s",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Oxidationsmittel",
                                 "Reaktionspartner, dessen Oxidationszahl vermindert wird, Elektronenakzeptor",
                                 "",
@@ -52413,19 +52414,6 @@
                                 ""
                             ],
                             "guid": "QS){t`L{85",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<ul id=\"f926827c-819f-4bf0-bc48-ddd93814ad82\" class=\"toggle\"><li><details><summary>Ampholyt </summary><div><p class=\"\" id=\"e29ef9d7-e187-4956-ab62-a65447bd50a7\">Kann sowohl als Säure als auch als Base reagieren </p></div></details></li></ul>",
-                                "<p class=\"\" id=\"e29ef9d7-e187-4956-ab62-a65447bd50a7\">Kann sowohl als Säure als auch als Base reagieren </p>",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "z=8zY.,ro5",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         },
@@ -52970,7 +52958,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
-            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  /*max-width: 80%;*/\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n\n#io-wrapper img {\n max-width:none !important;\n max-height: none;\n height: 1000px;\n}\n\n.mobile #io-wrapper img {\n max-width:80% !important;\n max-height: none;\n height: 1100px;\n}\n\n",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  /*max-width: 80%;*/\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n\n#io-wrapper img {\n max-width:none !important;\n max-height: none;\n height: 1200px;\n}\n\n.mobile #io-wrapper img {\n max-width:80% !important;\n max-height: none;\n height: 1200px;\n}\n\n",
             "flds": [
                 {
                     "collapsed": false,
