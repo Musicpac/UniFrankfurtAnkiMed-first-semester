@@ -866,7 +866,7 @@
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"9854508b9bc544e89a1cf725158178a2-ao-2-A.svg\" />",
+                                        "<img src=\"9854508b9bc544e89a1cf725158178a2-ao-2-A.svg\">",
                                         "<img src=\"9854508b9bc544e89a1cf725158178a2-ao-O.svg\" />"
                                     ],
                                     "guid": "jUZIBn9{gi",
@@ -886,7 +886,7 @@
                                         "",
                                         "",
                                         "<img src=\"9854508b9bc544e89a1cf725158178a2-ao-3-A.svg\">",
-                                        "<img src=\"9854508b9bc544e89a1cf725158178a2-ao-O.svg\" />"
+                                        "<img src=\"9854508b9bc544e89a1cf725158178a2-ao-O.svg\">"
                                     ],
                                     "guid": "NJ]Ysuz4qY",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -904,7 +904,7 @@
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"9854508b9bc544e89a1cf725158178a2-ao-4-A.svg\" />",
+                                        "<img src=\"9854508b9bc544e89a1cf725158178a2-ao-4-A.svg\">",
                                         "<img src=\"9854508b9bc544e89a1cf725158178a2-ao-O.svg\" />"
                                     ],
                                     "guid": "EJ$/aZKve-",
@@ -923,7 +923,7 @@
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"9854508b9bc544e89a1cf725158178a2-ao-5-A.svg\" />",
+                                        "<img src=\"9854508b9bc544e89a1cf725158178a2-ao-5-A.svg\">",
                                         "<img src=\"9854508b9bc544e89a1cf725158178a2-ao-O.svg\">"
                                     ],
                                     "guid": "J72QikzWBU",
@@ -942,7 +942,7 @@
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"9854508b9bc544e89a1cf725158178a2-ao-6-A.svg\" />",
+                                        "<img src=\"9854508b9bc544e89a1cf725158178a2-ao-6-A.svg\">",
                                         "<img src=\"9854508b9bc544e89a1cf725158178a2-ao-O.svg\" />"
                                     ],
                                     "guid": "z[=~.2/|-Y",
@@ -1113,7 +1113,7 @@
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"9854508b9bc544e89a1cf725158178a2-ao-7-A.svg\" />",
+                                        "<img src=\"9854508b9bc544e89a1cf725158178a2-ao-7-A.svg\">",
                                         "<img src=\"9854508b9bc544e89a1cf725158178a2-ao-O.svg\" />"
                                     ],
                                     "guid": "LmW:E,eB:w",
@@ -8552,8 +8552,8 @@
                                         "cilium",
                                         "Wimper, Flimmerhaar",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "u!i/idcASI",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -8864,8 +8864,8 @@
                                         "contusio-",
                                         "Quetschung",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "s(K`WXOqd6",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -11919,8 +11919,8 @@
                                         "lemniscus",
                                         "Schlinge oder Schleife",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "c!M{}/Ooa:",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -14038,8 +14038,8 @@
                                         "pudendum",
                                         "Schamteil",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "nyUK>!`^y;",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -17344,7 +17344,7 @@
                                         "",
                                         "",
                                         "<img src=\"c4f7a48b486648d0aa1789c99cfe2c21-ao-2-A.svg\" />",
-                                        "<img src=\"c4f7a48b486648d0aa1789c99cfe2c21-ao-O.svg\" />"
+                                        "<img src=\"c4f7a48b486648d0aa1789c99cfe2c21-ao-O.svg\">"
                                     ],
                                     "guid": "is!2gR[D<(",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -18229,7 +18229,7 @@
                                         "",
                                         "",
                                         "<img src=\"b5f825ba5c024466a0f12ecb8e72e1d4-ao-14-A.svg\">",
-                                        "<img src=\"b5f825ba5c024466a0f12ecb8e72e1d4-ao-O.svg\" />"
+                                        "<img src=\"b5f825ba5c024466a0f12ecb8e72e1d4-ao-O.svg\">"
                                     ],
                                     "guid": "ju2C:@{!7j",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -18571,7 +18571,7 @@
                                         "",
                                         "",
                                         "<img src=\"e2a59e9c13a24535a4d3aac9f08350fb-ao-1-A.svg\" />",
-                                        "<img src=\"e2a59e9c13a24535a4d3aac9f08350fb-ao-O.svg\" />"
+                                        "<img src=\"e2a59e9c13a24535a4d3aac9f08350fb-ao-O.svg\">"
                                     ],
                                     "guid": "xTyO)li-/F",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -18609,7 +18609,7 @@
                                         "",
                                         "",
                                         "<img src=\"e2a59e9c13a24535a4d3aac9f08350fb-ao-3-A.svg\" />",
-                                        "<img src=\"e2a59e9c13a24535a4d3aac9f08350fb-ao-O.svg\" />"
+                                        "<img src=\"e2a59e9c13a24535a4d3aac9f08350fb-ao-O.svg\">"
                                     ],
                                     "guid": "P^c!&bVy3Q",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -19709,10 +19709,10 @@
                                         "",
                                         "",
                                         "<img src=\"9a51d63760ce4f4892762c7b1dc67d91-ao-8-A.svg\">",
-                                        "<img src=\"9a51d63760ce4f4892762c7b1dc67d91-ao-O.svg\" />"
+                                        "<img src=\"9a51d63760ce4f4892762c7b1dc67d91-ao-O.svg\">"
                                     ],
                                     "guid": "G4vtxvhYM3",
-                                    "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                                    "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                                     "tags": []
                                 },
                                 {
@@ -19731,7 +19731,7 @@
                                         "<img src=\"9a51d63760ce4f4892762c7b1dc67d91-ao-O.svg\">"
                                     ],
                                     "guid": "D`H]nCvWNQ",
-                                    "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                                    "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                                     "tags": []
                                 },
                                 {
@@ -19798,7 +19798,7 @@
                                         "",
                                         "",
                                         "<img src=\"128f15ebe9794b3194c7a60aa5718741-ao-1-A.svg\" />",
-                                        "<img src=\"128f15ebe9794b3194c7a60aa5718741-ao-O.svg\" />"
+                                        "<img src=\"128f15ebe9794b3194c7a60aa5718741-ao-O.svg\">"
                                     ],
                                     "guid": "Fjqjb@f~O4",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -19816,7 +19816,7 @@
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"128f15ebe9794b3194c7a60aa5718741-ao-2-A.svg\" />",
+                                        "<img src=\"128f15ebe9794b3194c7a60aa5718741-ao-2-A.svg\">",
                                         "<img src=\"128f15ebe9794b3194c7a60aa5718741-ao-O.svg\">"
                                     ],
                                     "guid": "rw}30T=5Eh",
@@ -19854,7 +19854,7 @@
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"128f15ebe9794b3194c7a60aa5718741-ao-4-A.svg\" />",
+                                        "<img src=\"128f15ebe9794b3194c7a60aa5718741-ao-4-A.svg\">",
                                         "<img src=\"128f15ebe9794b3194c7a60aa5718741-ao-O.svg\">"
                                     ],
                                     "guid": "nFR`j_YRIG",
@@ -21183,7 +21183,7 @@
                                         "",
                                         "",
                                         "<img src=\"1b4d49da4d8e41fea6058309778c5819-ao-35-A.svg\">",
-                                        "<img src=\"1b4d49da4d8e41fea6058309778c5819-ao-O.svg\" />"
+                                        "<img src=\"1b4d49da4d8e41fea6058309778c5819-ao-O.svg\">"
                                     ],
                                     "guid": "t.&kgL6+tG",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -21348,7 +21348,7 @@
                                         "",
                                         "",
                                         "<img src=\"87c928acd6df466cb14fdb5cc098d299-ao-4-A.svg\">",
-                                        "<img src=\"87c928acd6df466cb14fdb5cc098d299-ao-O.svg\" />"
+                                        "<img src=\"87c928acd6df466cb14fdb5cc098d299-ao-O.svg\">"
                                     ],
                                     "guid": "hBP6<v0E9N",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -21568,7 +21568,7 @@
                                     "fields": [
                                         "87c928acd6df466cb14fdb5cc098d299-ao-16",
                                         "Epifasziale Strukturen Beine",
-                                        "<img src=\"IMG_EAEC3A5102E6-1.jpeg\" />",
+                                        "<img src=\"IMG_EAEC3A5102E6-1.jpeg\">",
                                         "<img src=\"87c928acd6df466cb14fdb5cc098d299-ao-16-Q.svg\" />",
                                         "",
                                         "",
@@ -23425,7 +23425,7 @@
                                 "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-O.svg\" />"
                             ],
                             "guid": "lr4[=evK;C",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23441,10 +23441,10 @@
                                 "",
                                 "",
                                 "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-2-A.svg\" />",
-                                "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-O.svg\" />"
+                                "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-O.svg\">"
                             ],
                             "guid": "mA]7Gl^>B8",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23459,11 +23459,11 @@
                                 "",
                                 "",
                                 "",
-                                "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-3-A.svg\" />",
+                                "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-3-A.svg\">",
                                 "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-O.svg\" />"
                             ],
                             "guid": "j~`$<rDKJQ",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23482,7 +23482,7 @@
                                 "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-O.svg\" />"
                             ],
                             "guid": "CxhK{*(4(g",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23498,10 +23498,10 @@
                                 "",
                                 "",
                                 "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-5-A.svg\" />",
-                                "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-O.svg\" />"
+                                "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-O.svg\">"
                             ],
                             "guid": "l]9Bg<MZiV",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23517,10 +23517,10 @@
                                 "",
                                 "",
                                 "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-6-A.svg\" />",
-                                "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-O.svg\" />"
+                                "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-O.svg\">"
                             ],
                             "guid": "jAn,[F#B(?",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23539,7 +23539,7 @@
                                 "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-O.svg\" />"
                             ],
                             "guid": "AJv|;Mk|qM",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23554,11 +23554,11 @@
                                 "",
                                 "",
                                 "",
-                                "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-8-A.svg\" />",
+                                "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-8-A.svg\">",
                                 "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-O.svg\" />"
                             ],
                             "guid": "t.sY![m{[K",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23573,11 +23573,11 @@
                                 "",
                                 "",
                                 "",
-                                "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-9-A.svg\" />",
+                                "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-9-A.svg\">",
                                 "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-O.svg\" />"
                             ],
                             "guid": "g%4!RZe2<E",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23596,7 +23596,7 @@
                                 "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-O.svg\" />"
                             ],
                             "guid": "bh!:Hu3KvP",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23615,7 +23615,7 @@
                                 "<img src=\"83b32b35b24b4e95b5a5651c90e01e3a-ao-O.svg\">"
                             ],
                             "guid": "xfNVroxh4~",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23630,11 +23630,11 @@
                                 "",
                                 "",
                                 "",
-                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-1-A.svg\" />",
+                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-1-A.svg\">",
                                 "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-O.svg\" />"
                             ],
                             "guid": "E@h)jyf)Gm",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23650,10 +23650,10 @@
                                 "",
                                 "",
                                 "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-2-A.svg\" />",
-                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-O.svg\" />"
+                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-O.svg\">"
                             ],
                             "guid": "FiE7~Syl-s",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23668,11 +23668,11 @@
                                 "",
                                 "",
                                 "",
-                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-3-A.svg\" />",
+                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-3-A.svg\">",
                                 "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-O.svg\" />"
                             ],
                             "guid": "pI}jeXbuhq",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23687,11 +23687,11 @@
                                 "",
                                 "",
                                 "",
-                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-4-A.svg\" />",
+                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-4-A.svg\">",
                                 "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-O.svg\" />"
                             ],
                             "guid": "F*qkw-2h#d",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23707,10 +23707,10 @@
                                 "",
                                 "",
                                 "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-5-A.svg\" />",
-                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-O.svg\" />"
+                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-O.svg\">"
                             ],
                             "guid": "u5{xuA)-t=",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23725,11 +23725,11 @@
                                 "",
                                 "",
                                 "",
-                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-6-A.svg\" />",
-                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-O.svg\" />"
+                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-6-A.svg\">",
+                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-O.svg\">"
                             ],
                             "guid": "q#&<q>Tnwu",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23744,11 +23744,11 @@
                                 "",
                                 "",
                                 "",
-                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-7-A.svg\" />",
-                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-O.svg\" />"
+                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-7-A.svg\">",
+                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-O.svg\">"
                             ],
                             "guid": "OA6B*Fco}%",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23767,7 +23767,7 @@
                                 "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-O.svg\" />"
                             ],
                             "guid": "I^stO>@L2N",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23783,10 +23783,10 @@
                                 "",
                                 "",
                                 "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-9-A.svg\" />",
-                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-O.svg\" />"
+                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-O.svg\">"
                             ],
                             "guid": "qRobQdZ+a[",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23801,11 +23801,11 @@
                                 "",
                                 "",
                                 "",
-                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-10-A.svg\" />",
+                                "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-10-A.svg\">",
                                 "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-O.svg\" />"
                             ],
                             "guid": "gaidu9s7`e",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         },
                         {
@@ -23824,7 +23824,7 @@
                                 "<img src=\"a907cb1ee22c45c58dafb5e6a0bf3e85-ao-O.svg\">"
                             ],
                             "guid": "g^wisBqn|P",
-                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                             "tags": []
                         }
                     ],
@@ -23944,8 +23944,8 @@
                                                 "Daumensattelgelenk",
                                                 "<img src=\"Bildschirmfoto 2022-12-04 um 19.42.31.png\" width=\"1300\">",
                                                 "",
-                                                "",
-                                                ""
+                                                "Gelenke",
+                                                "Sisyphos"
                                             ],
                                             "guid": "dJWEI.WTuA",
                                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -24249,7 +24249,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-7-A.svg\">",
-                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\" />"
+                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\">"
                                             ],
                                             "guid": "yn6#MNKe9*",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24268,7 +24268,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-8-A.svg\">",
-                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\" />"
+                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\">"
                                             ],
                                             "guid": "i=QhYS?wd0",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24287,7 +24287,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-9-A.svg\">",
-                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\" />"
+                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\">"
                                             ],
                                             "guid": "q:7rNTF?iD",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24306,7 +24306,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-10-A.svg\">",
-                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\" />"
+                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\">"
                                             ],
                                             "guid": "p|23</b<Nd",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24325,7 +24325,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-11-A.svg\">",
-                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\" />"
+                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\">"
                                             ],
                                             "guid": "H50Cxr1-HY",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24401,7 +24401,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-15-A.svg\">",
-                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\" />"
+                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\">"
                                             ],
                                             "guid": "N_NK$Q)p.}",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24420,7 +24420,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-16-A.svg\">",
-                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\" />"
+                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\">"
                                             ],
                                             "guid": "whh%xl)-N}",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24477,7 +24477,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-19-A.svg\">",
-                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\" />"
+                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\">"
                                             ],
                                             "guid": "u|*[CGgoU-",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24496,7 +24496,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-20-A.svg\">",
-                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\" />"
+                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\">"
                                             ],
                                             "guid": "n]DHG22A<4",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24648,7 +24648,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-28-A.svg\">",
-                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\" />"
+                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\">"
                                             ],
                                             "guid": "GIM!JtbA*6",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24686,7 +24686,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-30-A.svg\">",
-                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\" />"
+                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\">"
                                             ],
                                             "guid": "o+FZHDEKmj",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24705,7 +24705,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-31-A.svg\">",
-                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\" />"
+                                                "<img src=\"fcd225adfbf4457ba04644625a4e38b6-ao-O.svg\">"
                                             ],
                                             "guid": "t{l+k|s]$8",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24800,7 +24800,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-2-A.svg\">",
-                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\" />"
+                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\">"
                                             ],
                                             "guid": "nA!_]KPh5F",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24819,7 +24819,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-3-A.svg\">",
-                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\" />"
+                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\">"
                                             ],
                                             "guid": "E*<lJ&?&zZ",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24857,7 +24857,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-5-A.svg\">",
-                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\" />"
+                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\">"
                                             ],
                                             "guid": "i2BKQ5brZ~",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24876,7 +24876,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-6-A.svg\">",
-                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\" />"
+                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\">"
                                             ],
                                             "guid": "H!CaZp4DFK",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24895,7 +24895,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-7-A.svg\">",
-                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\" />"
+                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\">"
                                             ],
                                             "guid": "tuUoCc?ZSp",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24914,7 +24914,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-8-A.svg\">",
-                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\" />"
+                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\">"
                                             ],
                                             "guid": "s/7oK.kP_e",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24933,7 +24933,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-9-A.svg\">",
-                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\" />"
+                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\">"
                                             ],
                                             "guid": "J:kRrFm1q_",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24952,7 +24952,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-10-A.svg\">",
-                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\" />"
+                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\">"
                                             ],
                                             "guid": "d~gvc,E#|~",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -24990,7 +24990,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-12-A.svg\">",
-                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\" />"
+                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\">"
                                             ],
                                             "guid": "h:kS69o3yY",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -25009,7 +25009,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-13-A.svg\">",
-                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\" />"
+                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\">"
                                             ],
                                             "guid": "C$u-b`c/fS",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -25028,7 +25028,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-14-A.svg\">",
-                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\" />"
+                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\">"
                                             ],
                                             "guid": "M4fPz%`LE-",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -25066,7 +25066,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-16-A.svg\">",
-                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\" />"
+                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\">"
                                             ],
                                             "guid": "JcB+GpO.vT",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -25104,7 +25104,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-18-A.svg\">",
-                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\" />"
+                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\">"
                                             ],
                                             "guid": "sMn/W:Z=#5",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -25123,7 +25123,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-19-A.svg\">",
-                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\" />"
+                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\">"
                                             ],
                                             "guid": "db:TpsWi&Z",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -25161,7 +25161,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-21-A.svg\">",
-                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\" />"
+                                                "<img src=\"995b5697cd2b4340abdfaea641977c6f-ao-O.svg\">"
                                             ],
                                             "guid": "OUn|)HJbK>",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -25218,7 +25218,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-2-A.svg\" />",
-                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\" />"
+                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\">"
                                             ],
                                             "guid": "y<]1hT%eod",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -25237,7 +25237,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-3-A.svg\">",
-                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\" />"
+                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\">"
                                             ],
                                             "guid": "Bkr6U)~%LE",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -25256,7 +25256,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-4-A.svg\">",
-                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\" />"
+                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\">"
                                             ],
                                             "guid": "rPEUi@BXl9",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -25275,7 +25275,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-5-A.svg\">",
-                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\" />"
+                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\">"
                                             ],
                                             "guid": "z)`IVacYzI",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -25294,7 +25294,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-6-A.svg\">",
-                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\" />"
+                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\">"
                                             ],
                                             "guid": "d2^mD?~AI1",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -25332,7 +25332,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-8-A.svg\">",
-                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\" />"
+                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\">"
                                             ],
                                             "guid": "P+Kf=gl?RR",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -25351,7 +25351,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-9-A.svg\">",
-                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\" />"
+                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\">"
                                             ],
                                             "guid": "QvlM_sg`rN",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -25370,7 +25370,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-10-A.svg\">",
-                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\" />"
+                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\">"
                                             ],
                                             "guid": "jfsh3HGD_z",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -25389,7 +25389,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-11-A.svg\">",
-                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\" />"
+                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\">"
                                             ],
                                             "guid": "A97W3MANxs",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -25427,7 +25427,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-13-A.svg\">",
-                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\" />"
+                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\">"
                                             ],
                                             "guid": "rYhFsLqsaX",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -25484,7 +25484,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-16-A.svg\">",
-                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\" />"
+                                                "<img src=\"b8287b6b78314fd2bf44316f443ba593-ao-O.svg\">"
                                             ],
                                             "guid": "EpbLof3Hg=",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -30344,7 +30344,7 @@
                                         "",
                                         "",
                                         "<img src=\"4401949c58834d45975f2cc093d30388-ao-2-A.svg\">",
-                                        "<img src=\"4401949c58834d45975f2cc093d30388-ao-O.svg\" />"
+                                        "<img src=\"4401949c58834d45975f2cc093d30388-ao-O.svg\">"
                                     ],
                                     "guid": "u+WC<,yf`D",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -30401,7 +30401,7 @@
                                         "",
                                         "",
                                         "<img src=\"4401949c58834d45975f2cc093d30388-ao-5-A.svg\">",
-                                        "<img src=\"4401949c58834d45975f2cc093d30388-ao-O.svg\" />"
+                                        "<img src=\"4401949c58834d45975f2cc093d30388-ao-O.svg\">"
                                     ],
                                     "guid": "p9<nBt,l25",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -30458,7 +30458,7 @@
                                         "",
                                         "",
                                         "<img src=\"4401949c58834d45975f2cc093d30388-ao-8-A.svg\">",
-                                        "<img src=\"4401949c58834d45975f2cc093d30388-ao-O.svg\" />"
+                                        "<img src=\"4401949c58834d45975f2cc093d30388-ao-O.svg\">"
                                     ],
                                     "guid": "C~hr1gE)G@",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -31559,7 +31559,7 @@
                                     "fields": [
                                         "25a7f9573c7f4bf7a19905adc16b520b-ao-2",
                                         "Dorsal",
-                                        "<img src=\"IMG_8F543ABD5E8F-1.jpeg\" />",
+                                        "<img src=\"IMG_8F543ABD5E8F-1.jpeg\">",
                                         "<img src=\"25a7f9573c7f4bf7a19905adc16b520b-ao-2-Q.svg\" />",
                                         "",
                                         "",
@@ -32878,7 +32878,7 @@
                                         "",
                                         "",
                                         "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-2-A.svg\" />",
-                                        "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-O.svg\" />"
+                                        "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-O.svg\">"
                                     ],
                                     "guid": "h:jMLHnZu+",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -32897,7 +32897,7 @@
                                         "",
                                         "",
                                         "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-3-A.svg\" />",
-                                        "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-O.svg\" />"
+                                        "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-O.svg\">"
                                     ],
                                     "guid": "dw=8]U3,k5",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -32916,7 +32916,7 @@
                                         "",
                                         "",
                                         "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-4-A.svg\" />",
-                                        "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-O.svg\" />"
+                                        "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-O.svg\">"
                                     ],
                                     "guid": "KbUvF1o4lT",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -32934,7 +32934,7 @@
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-5-A.svg\" />",
+                                        "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-5-A.svg\">",
                                         "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-O.svg\" />"
                                     ],
                                     "guid": "FV`D/U?{J4",
@@ -32954,7 +32954,7 @@
                                         "",
                                         "",
                                         "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-6-A.svg\" />",
-                                        "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-O.svg\" />"
+                                        "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-O.svg\">"
                                     ],
                                     "guid": "wzergM;]u!",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -33011,7 +33011,7 @@
                                         "",
                                         "",
                                         "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-9-A.svg\" />",
-                                        "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-O.svg\" />"
+                                        "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-O.svg\">"
                                     ],
                                     "guid": "Mu~hP[YNU-",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -33068,7 +33068,7 @@
                                         "",
                                         "",
                                         "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-12-A.svg\" />",
-                                        "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-O.svg\" />"
+                                        "<img src=\"beb0850d9f854e73922b99c10b6f8910-ao-O.svg\">"
                                     ],
                                     "guid": "cH/;eTVjm*",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -33143,7 +33143,7 @@
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"5ccf8d1bfba34b2c919d0be0f082e2cd-ao-2-A.svg\" />",
+                                        "<img src=\"5ccf8d1bfba34b2c919d0be0f082e2cd-ao-2-A.svg\">",
                                         "<img src=\"5ccf8d1bfba34b2c919d0be0f082e2cd-ao-O.svg\" />"
                                     ],
                                     "guid": "lmfrDQM{TQ",
@@ -33182,7 +33182,7 @@
                                         "",
                                         "",
                                         "<img src=\"5ccf8d1bfba34b2c919d0be0f082e2cd-ao-4-A.svg\" />",
-                                        "<img src=\"5ccf8d1bfba34b2c919d0be0f082e2cd-ao-O.svg\" />"
+                                        "<img src=\"5ccf8d1bfba34b2c919d0be0f082e2cd-ao-O.svg\">"
                                     ],
                                     "guid": "uv7^h`Or$j",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -33201,7 +33201,7 @@
                                         "",
                                         "",
                                         "<img src=\"5ccf8d1bfba34b2c919d0be0f082e2cd-ao-5-A.svg\" />",
-                                        "<img src=\"5ccf8d1bfba34b2c919d0be0f082e2cd-ao-O.svg\" />"
+                                        "<img src=\"5ccf8d1bfba34b2c919d0be0f082e2cd-ao-O.svg\">"
                                     ],
                                     "guid": "hrAL1(68nl",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -33219,8 +33219,8 @@
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"5ccf8d1bfba34b2c919d0be0f082e2cd-ao-6-A.svg\" />",
-                                        "<img src=\"5ccf8d1bfba34b2c919d0be0f082e2cd-ao-O.svg\" />"
+                                        "<img src=\"5ccf8d1bfba34b2c919d0be0f082e2cd-ao-6-A.svg\">",
+                                        "<img src=\"5ccf8d1bfba34b2c919d0be0f082e2cd-ao-O.svg\">"
                                     ],
                                     "guid": "y_f2xAYiR6",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -33239,7 +33239,7 @@
                                         "",
                                         "",
                                         "<img src=\"5ccf8d1bfba34b2c919d0be0f082e2cd-ao-7-A.svg\" />",
-                                        "<img src=\"5ccf8d1bfba34b2c919d0be0f082e2cd-ao-O.svg\" />"
+                                        "<img src=\"5ccf8d1bfba34b2c919d0be0f082e2cd-ao-O.svg\">"
                                     ],
                                     "guid": "hL:O>]$^e0",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -33258,7 +33258,7 @@
                                         "",
                                         "",
                                         "<img src=\"5ccf8d1bfba34b2c919d0be0f082e2cd-ao-8-A.svg\" />",
-                                        "<img src=\"5ccf8d1bfba34b2c919d0be0f082e2cd-ao-O.svg\" />"
+                                        "<img src=\"5ccf8d1bfba34b2c919d0be0f082e2cd-ao-O.svg\">"
                                     ],
                                     "guid": "d%{f`Hl!Z0",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -33367,7 +33367,7 @@
                                         "",
                                         "",
                                         "<img src=\"9910675d3cf54349bb9bbf0c78c96d72-ao-2-A.svg\">",
-                                        "<img src=\"9910675d3cf54349bb9bbf0c78c96d72-ao-O.svg\" />"
+                                        "<img src=\"9910675d3cf54349bb9bbf0c78c96d72-ao-O.svg\">"
                                     ],
                                     "guid": "c0&6g)`9=-",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -33405,7 +33405,7 @@
                                         "",
                                         "",
                                         "<img src=\"9910675d3cf54349bb9bbf0c78c96d72-ao-4-A.svg\" />",
-                                        "<img src=\"9910675d3cf54349bb9bbf0c78c96d72-ao-O.svg\" />"
+                                        "<img src=\"9910675d3cf54349bb9bbf0c78c96d72-ao-O.svg\">"
                                     ],
                                     "guid": "y_SImoBnJ!",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -33443,7 +33443,7 @@
                                         "",
                                         "",
                                         "<img src=\"9910675d3cf54349bb9bbf0c78c96d72-ao-6-A.svg\" />",
-                                        "<img src=\"9910675d3cf54349bb9bbf0c78c96d72-ao-O.svg\" />"
+                                        "<img src=\"9910675d3cf54349bb9bbf0c78c96d72-ao-O.svg\">"
                                     ],
                                     "guid": "s7JuCzvUcG",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -34357,7 +34357,7 @@
                                         "",
                                         "",
                                         "<img src=\"e7f80961d6434d5596e86ff9288e174e-ao-2-A.svg\">",
-                                        "<img src=\"e7f80961d6434d5596e86ff9288e174e-ao-O.svg\" />"
+                                        "<img src=\"e7f80961d6434d5596e86ff9288e174e-ao-O.svg\">"
                                     ],
                                     "guid": "j<%{{o$f(D",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -34376,7 +34376,7 @@
                                         "",
                                         "",
                                         "<img src=\"e7f80961d6434d5596e86ff9288e174e-ao-3-A.svg\">",
-                                        "<img src=\"e7f80961d6434d5596e86ff9288e174e-ao-O.svg\" />"
+                                        "<img src=\"e7f80961d6434d5596e86ff9288e174e-ao-O.svg\">"
                                     ],
                                     "guid": "LT`VD$_zcT",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -34395,7 +34395,7 @@
                                         "",
                                         "",
                                         "<img src=\"e7f80961d6434d5596e86ff9288e174e-ao-4-A.svg\">",
-                                        "<img src=\"e7f80961d6434d5596e86ff9288e174e-ao-O.svg\" />"
+                                        "<img src=\"e7f80961d6434d5596e86ff9288e174e-ao-O.svg\">"
                                     ],
                                     "guid": "tMlT}gFn96",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -34632,7 +34632,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"756c26b7e61d4cb593a9995dcdedfbc3-ao-7-A.svg\">",
-                                                "<img src=\"756c26b7e61d4cb593a9995dcdedfbc3-ao-O.svg\" />"
+                                                "<img src=\"756c26b7e61d4cb593a9995dcdedfbc3-ao-O.svg\">"
                                             ],
                                             "guid": "lVJcPlh~9/",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -37971,7 +37971,7 @@
                                         "",
                                         "",
                                         "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-3-A.svg\">",
-                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-O.svg\" />"
+                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-O.svg\">"
                                     ],
                                     "guid": "C4|nJ>)$Q5",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -38008,7 +38008,7 @@
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-5-A.svg\" />",
+                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-5-A.svg\">",
                                         "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-O.svg\" />"
                                     ],
                                     "guid": "D;ZOVo4+$U",
@@ -38027,7 +38027,7 @@
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-6-A.svg\" />",
+                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-6-A.svg\">",
                                         "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-O.svg\" />"
                                     ],
                                     "guid": "mgF5uP5Ym?",
@@ -38046,7 +38046,7 @@
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-7-A.svg\" />",
+                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-7-A.svg\">",
                                         "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-O.svg\" />"
                                     ],
                                     "guid": "qC)Vq<9wcF",
@@ -38104,7 +38104,7 @@
                                         "",
                                         "",
                                         "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-10-A.svg\" />",
-                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-O.svg\" />"
+                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-O.svg\">"
                                     ],
                                     "guid": "cVMg.X&p<S",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -38160,7 +38160,7 @@
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-13-A.svg\" />",
+                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-13-A.svg\">",
                                         "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-O.svg\" />"
                                     ],
                                     "guid": "IhzzUm/B6",
@@ -38198,7 +38198,7 @@
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-15-A.svg\" />",
+                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-15-A.svg\">",
                                         "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-O.svg\" />"
                                     ],
                                     "guid": "fd`tI`ZVlx",
@@ -38237,7 +38237,7 @@
                                         "",
                                         "",
                                         "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-17-A.svg\" />",
-                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-O.svg\" />"
+                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-O.svg\">"
                                     ],
                                     "guid": "EIv`siWhUV",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -38255,7 +38255,7 @@
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-18-A.svg\" />",
+                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-18-A.svg\">",
                                         "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-O.svg\" />"
                                     ],
                                     "guid": "mjog(A[[%O",
@@ -38274,8 +38274,8 @@
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-20-A.svg\" />",
-                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-O.svg\" />"
+                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-20-A.svg\">",
+                                        "<img src=\"f89b342b3748483f8c0523eb576b1626-ao-O.svg\">"
                                     ],
                                     "guid": "hnNjwCi%)7",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -38655,7 +38655,7 @@
                                         "",
                                         "",
                                         "<img src=\"6a2c7777abea498fae74533496879da5-ao-15-A.svg\">",
-                                        "<img src=\"6a2c7777abea498fae74533496879da5-ao-O.svg\" />"
+                                        "<img src=\"6a2c7777abea498fae74533496879da5-ao-O.svg\">"
                                     ],
                                     "guid": "1cb?}y]p3",
                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -38823,8 +38823,8 @@
                                 "Syndesmosen Sprunggelenk",
                                 "Lig. Tibiofibularis anterior<div><br></div><div>Lig. Tibiofibularis posterior</div>",
                                 "",
-                                "",
-                                ""
+                                "Sprunggelenk",
+                                "Sisyphos"
                             ],
                             "guid": "B-U2EDz?Wf",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -40235,7 +40235,7 @@
                                                 "<img src=\"0644024ba4ba4ae5814d2df7a930216d-ao-O.svg\">"
                                             ],
                                             "guid": "bL`QYlF,ij",
-                                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                                             "tags": []
                                         },
                                         {
@@ -40254,7 +40254,7 @@
                                                 "<img src=\"0644024ba4ba4ae5814d2df7a930216d-ao-O.svg\">"
                                             ],
                                             "guid": "bAP%by@x7@",
-                                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                                             "tags": []
                                         },
                                         {
@@ -40273,7 +40273,7 @@
                                                 "<img src=\"0644024ba4ba4ae5814d2df7a930216d-ao-O.svg\">"
                                             ],
                                             "guid": "iYek=6TBi|",
-                                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                                             "tags": []
                                         },
                                         {
@@ -40292,7 +40292,7 @@
                                                 "<img src=\"0644024ba4ba4ae5814d2df7a930216d-ao-O.svg\">"
                                             ],
                                             "guid": "tcH^OA2KN;",
-                                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                                             "tags": []
                                         },
                                         {
@@ -40396,7 +40396,7 @@
                                                 "<img src=\"IMG_BFFF4EE6FEA1-1.jpeg\">",
                                                 "<img src=\"7a308b394e254bf6ab18a0aa3b2fd90e-ao-1-Q.svg\">",
                                                 "",
-                                                "<div><b>M. tibialis anterior (1)</b></div>\n<div><i>Sieht man von ventral direkt lateral der Tibia</i></div>\n<div><b>&nbsp;</b></div>\n<div><b>Ursprung: </b>oberes 2/3<b> </b>der Tibia (Facies lateralis) &amp; Membrana interossea<b></b></div>\n<div><b>Ansatz: </b></div>\n<div>- Os cuneiforme mediale (plantare Seite)</div>\n<div>- Basis Os Metatarsi I</div>\n<div>&nbsp;</div>\n<div><b>Funktion:</b></div>\n<div>- oberes Sprunggelenk: Dorsalextension<br>\n- unteres Sprunggelenk: Inversion (Supination)&nbsp;</div>\n<div><b>&nbsp;</b></div>\n<div><b>Innervation: </b>N. fibularis profundus (L4, 5)</div><br><img src=\"IMG_77C2E153A536-1.jpeg\"><br>",
+                                                "<div><b>M. tibialis anterior (1)</b></div>\n<div><i>Sieht man von ventral direkt lateral der Tibia</i></div>\n<div><b>&nbsp;</b></div>\n<div><b>Ursprung: </b>oberes 2/3<b> </b>der Tibia (Facies lateralis) &amp; Membrana interossea<b></b></div>\n<div><b>Ansatz: </b></div>\n<div>- Os cuneiforme mediale (plantare Seite)</div>\n<div>- Basis Os Metatarsi I</div>\n<div>&nbsp;</div>\n<div><b>Funktion:</b></div>\n<div>- oberes Sprunggelenk: Dorsalextension<br>\n- unteres Sprunggelenk: Inversion (Supination)&nbsp;</div>\n<div><b>&nbsp;</b></div>\n<div><b>Innervation: </b>N. fibularis profundus (L4, 5)</div><br><img src=\"IMG_77C2E153A536-1.jpeg\" width=\"360\"><br>",
                                                 "",
                                                 "",
                                                 "",
@@ -40404,7 +40404,7 @@
                                                 "<img src=\"7a308b394e254bf6ab18a0aa3b2fd90e-ao-O.svg\">"
                                             ],
                                             "guid": "v@*r,O}}D,",
-                                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                                             "tags": []
                                         },
                                         {
@@ -40415,7 +40415,7 @@
                                                 "<img src=\"IMG_BFFF4EE6FEA1-1.jpeg\">",
                                                 "<img src=\"7a308b394e254bf6ab18a0aa3b2fd90e-ao-2-Q.svg\">",
                                                 "",
-                                                "<div><b>M. extensor digitorum longus (2)</b></div>\n<div><i>Lateral neben M. tibialis anterior und Ursprung wird von M. fibularis longus verdeckt / Ansatzsehnen gut sichbar</i></div>\n<div><i>(Sieht proximal / ventral aus, als würde er zwischen M. tibialis anterior\nund M. fibularis longus liegen)</i></div>\n<div><b>&nbsp;</b></div>\n<div><b>Ursprung: </b></div>\n<div>- Tibia: <span style=\"color: rgb(118, 113, 113);\">lateraler Condylus </span></div>\n<div>- Fibula: <span style=\"color: rgb(118, 113, 113);\">Caput und proximaler Teil</span></div>\n<div>- Membrana interossea</div>\n<div><b>&nbsp;</b></div>\n<div><b>Ansatz: </b>Basis Phalanges distales 2-5 (über Dorsalaponeurose)</div>\n<div><b>&nbsp;</b></div>\n<div><b>Funktion:</b></div>\n<div>- oberes Sprunggelenk: Dorsalextension<br>\n- unteres Sprunggelenk: Eversion (Pronation)<br>\n- Grund-, Mittel- und Endgelenke der 2.–5. Zehe: Extension&nbsp;<b></b></div>\n<div><b>&nbsp;</b></div>\n<div><b>Innervation: </b>N. fibularis profundus (L4, 5)</div><div><br></div><div><img src=\"IMG_77C2E153A536-1.jpeg\" width=\"322\"><br></div>",
+                                                "<div><b>M. extensor digitorum longus (2)</b></div>\n<div><i>Lateral neben M. tibialis anterior und Ursprung wird von M. fibularis longus verdeckt / Ansatzsehnen gut sichbar</i></div>\n<div><i>(Sieht proximal / ventral aus, als würde er zwischen M. tibialis anterior\nund M. fibularis longus liegen)</i></div>\n<div><b>&nbsp;</b></div>\n<div><b>Ursprung: </b></div>\n<div>- Tibia: lateraler Condylus </div>\n<div>- Fibula: Caput und proximaler Teil</div>\n<div>- Membrana interossea</div>\n<div><b>&nbsp;</b></div>\n<div><b>Ansatz: </b>Basis Phalanges distales 2-5 (über Dorsalaponeurose)</div>\n<div><b>&nbsp;</b></div>\n<div><b>Funktion:</b></div>\n<div>- oberes Sprunggelenk: Dorsalextension<br>\n- unteres Sprunggelenk: Eversion (Pronation)<br>\n- Grund-, Mittel- und Endgelenke der 2.–5. Zehe: Extension&nbsp;<b></b></div>\n<div><b>&nbsp;</b></div>\n<div><b>Innervation: </b>N. fibularis profundus (L4, 5)</div><div><br></div><div><img src=\"IMG_77C2E153A536-1.jpeg\" width=\"322\"><br></div>",
                                                 "",
                                                 "",
                                                 "",
@@ -40423,7 +40423,7 @@
                                                 "<img src=\"7a308b394e254bf6ab18a0aa3b2fd90e-ao-O.svg\">"
                                             ],
                                             "guid": "qz@>gv|g%H",
-                                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                                             "tags": []
                                         },
                                         {
@@ -40442,7 +40442,7 @@
                                                 "<img src=\"7a308b394e254bf6ab18a0aa3b2fd90e-ao-O.svg\">"
                                             ],
                                             "guid": "zhA4yQVSL?",
-                                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                                             "tags": []
                                         },
                                         {
@@ -40461,7 +40461,7 @@
                                                 "<img src=\"a3d33064737543c797ad344ef2d94757-ao-O.svg\">"
                                             ],
                                             "guid": "w_44ONzX#s",
-                                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                                             "tags": []
                                         },
                                         {
@@ -40480,7 +40480,7 @@
                                                 "<img src=\"a3d33064737543c797ad344ef2d94757-ao-O.svg\">"
                                             ],
                                             "guid": "qW`-8y|X(Y",
-                                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                                             "tags": []
                                         },
                                         {
@@ -40499,7 +40499,7 @@
                                                 "<img src=\"4a681aca11b9419da4e905b098b78fbf-ao-O.svg\">"
                                             ],
                                             "guid": "i<+}!?s1TW",
-                                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                                             "tags": []
                                         },
                                         {
@@ -40518,7 +40518,7 @@
                                                 "<img src=\"4a681aca11b9419da4e905b098b78fbf-ao-O.svg\">"
                                             ],
                                             "guid": "pM3Kj[=`sO",
-                                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                                             "tags": []
                                         },
                                         {
@@ -40537,7 +40537,7 @@
                                                 "<img src=\"2d2e7018a5974f47bd462eda69f236dc-ao-O.svg\">"
                                             ],
                                             "guid": "oNJj)q)O^G",
-                                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                                             "tags": []
                                         },
                                         {
@@ -40545,7 +40545,7 @@
                                             "fields": [
                                                 "2d2e7018a5974f47bd462eda69f236dc-ao-2",
                                                 "Tiefe Flexoren",
-                                                "<img src=\"IMG_16E2BB446784-1.jpeg\" />",
+                                                "<img src=\"IMG_16E2BB446784-1.jpeg\">",
                                                 "<img src=\"2d2e7018a5974f47bd462eda69f236dc-ao-2-Q.svg\">",
                                                 "",
                                                 "<div><b>M. flexor digitorum longus (2)</b></div>\n<div><i>Läuft einmal von ganz lateral nach medial</i></div>\n<div><i>Ganz medial</i></div>\n<div><b>&nbsp;</b></div>\n<div><b>Ursprung: </b>mittleres Drittel der Facies posterior der Tibia<b></b></div>\n<div><b>&nbsp;</b></div>\n<div><b>Ansatz: </b>Basen der Endphalangen II–V<b></b></div>\n<div><b>&nbsp;</b></div>\n<div><b>Funktion:</b></div>\n<div>oberes Sprunggelenk: Plantarflexion<br>\nunteres Sprunggelenk: Inversion (Supination)<br>\nGrund-, Mittel- und Endgelenke der Zehen II–V: Plantarflexion</div>\n<div><b>&nbsp;</b></div>\n<div><b>Innervation: </b>N.tibialis (L4–S1)</div><div><br></div>- ist an beiden chiasmata (crurale und plantare) beteiligt<br><br><img src=\"IMG_F9D7F3F1E0EA-1.jpeg\" width=\"300\"><br>",
@@ -40556,7 +40556,7 @@
                                                 "<img src=\"2d2e7018a5974f47bd462eda69f236dc-ao-O.svg\">"
                                             ],
                                             "guid": "dKEqUqD]qK",
-                                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                                             "tags": []
                                         },
                                         {
@@ -40575,7 +40575,7 @@
                                                 "<img src=\"2d2e7018a5974f47bd462eda69f236dc-ao-O.svg\">"
                                             ],
                                             "guid": "QI%jcpeoIU",
-                                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                                             "tags": []
                                         },
                                         {
@@ -40804,7 +40804,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"91f36f491b0946339415f90afacd418b-ao-3-A.svg\">",
-                                                "<img src=\"91f36f491b0946339415f90afacd418b-ao-O.svg\" />"
+                                                "<img src=\"91f36f491b0946339415f90afacd418b-ao-O.svg\">"
                                             ],
                                             "guid": "+<k{*nUDC",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -41001,7 +41001,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"27fdce9565f744448da8bd6f84a3d49c-ao-2-A.svg\" />",
-                                                "<img src=\"27fdce9565f744448da8bd6f84a3d49c-ao-O.svg\" />"
+                                                "<img src=\"27fdce9565f744448da8bd6f84a3d49c-ao-O.svg\">"
                                             ],
                                             "guid": "u6ojm@sNOT",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -41020,7 +41020,7 @@
                                                 "",
                                                 "",
                                                 "<img src=\"27fdce9565f744448da8bd6f84a3d49c-ao-3-A.svg\">",
-                                                "<img src=\"27fdce9565f744448da8bd6f84a3d49c-ao-O.svg\" />"
+                                                "<img src=\"27fdce9565f744448da8bd6f84a3d49c-ao-O.svg\">"
                                             ],
                                             "guid": "LC6CgdG>Zo",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -41288,7 +41288,7 @@
                                                 "<img src=\"4f4928928cc747dcb303becfa2669650-ao-O.svg\">"
                                             ],
                                             "guid": "d(&4?}~^_{",
-                                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                                             "tags": []
                                         },
                                         {
@@ -41307,7 +41307,7 @@
                                                 "<img src=\"4f4928928cc747dcb303becfa2669650-ao-O.svg\">"
                                             ],
                                             "guid": "w.Uz%5[dwF",
-                                            "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
+                                            "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
                                             "tags": []
                                         }
                                     ],
@@ -41701,7 +41701,7 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<img src=\"e53b08c8e4e249debf338e23fb0bb05d-ao-5-A.svg\" />",
+                                                        "<img src=\"e53b08c8e4e249debf338e23fb0bb05d-ao-5-A.svg\">",
                                                         "<img src=\"e53b08c8e4e249debf338e23fb0bb05d-ao-O.svg\">"
                                                     ],
                                                     "guid": "Hnm($V[{Ps",
@@ -41721,7 +41721,7 @@
                                                         "",
                                                         "",
                                                         "<img src=\"e53b08c8e4e249debf338e23fb0bb05d-ao-6-A.svg\" />",
-                                                        "<img src=\"e53b08c8e4e249debf338e23fb0bb05d-ao-O.svg\" />"
+                                                        "<img src=\"e53b08c8e4e249debf338e23fb0bb05d-ao-O.svg\">"
                                                     ],
                                                     "guid": "j3oqz9Vo)J",
                                                     "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -44532,6 +44532,68 @@
                 {
                     "__type__": "Deck",
                     "children": [],
+                    "crowdanki_uuid": "a8595193-81d9-11ef-9075-309c231785da",
+                    "deck_config_uuid": "b3c2df35-c040-11ee-861a-60f677a7f746",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Krankheiten",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Klinik: Mutation des Keratin- Gens",
+                                "<ul><li>Epidermolysis Bulbosa Simplex: betrifft das Stratum basale der Epidermis\n</li><li>Bildung defekter Keratinmoleküle → können kein normales Keratin- Netzwerk ausbilden\n</li><li>→ leichte Belastungen → Reißen der Zellkörper\n</li><li>Bildung von flüssigkeitsgefüllten Hohlräumen, die außen an der Haut als Blasen sichtbar werden</li></ul>",
+                                "",
+                                "Klinik-Facts",
+                                "Sisyphos"
+                            ],
+                            "guid": "e,~&=}la[g",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        }
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "a859c648-81d9-11ef-b1a7-309c231785da",
+                    "deck_config_uuid": "b3c2df35-c040-11ee-861a-60f677a7f746",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Kursfragen",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Unterschiede zwischen Pro- und Eukaryoten kennen Sie?",
+                                "(Größe, Zellkern, ringförmige vs. lineare DNA, Organellen)",
+                                "",
+                                "Kursfragen",
+                                "Sisyphos"
+                            ],
+                            "guid": "DDG@}df~{:",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        }
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
                     "crowdanki_uuid": "b3bbde9d-c040-11ee-b958-60f677a7f746",
                     "deck_config_uuid": "b3c2df35-c040-11ee-861a-60f677a7f746",
                     "desc": "",
@@ -44954,19 +45016,6 @@
                         "Sisyphos"
                     ],
                     "guid": "vDmP*?+1fN",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welche Unterschiede zwischen Pro- und Eukaryoten kennen Sie?",
-                        "(Größe, Zellkern, ringförmige vs. lineare DNA, Organellen)",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "DDG@}df~{:",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                     "tags": []
                 },
@@ -45896,19 +45945,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"f525f105-12c4-4366-b521-34a520e927d5\" class=\"toggle\"><li><details><summary>Klinik: Mutation des Keratin- Gens </summary><div><p class=\"\" id=\"c28ee306-f551-44e1-ac37-ff298238765a\">Epidermolysis Bulbosa Simplex: betrifft das Stratum basale der Epidermis </p><p class=\"\" id=\"f225528c-8a7e-413a-bb89-f1f2c39876b8\">Bildung defekter Keratinmoleküle → können kein normales Keratin- Netzwerk ausbilden </p><p class=\"\" id=\"3d0a70f8-83f7-4666-9fad-bf38cb3c3b04\">→ leichte Belastungen → Reißen der Zellkörper </p><p class=\"\" id=\"26924165-d870-4746-91f9-76255e9f74df\">Bildung von Flüssigkeitsgefüllten Hohlräumen, die außen an der Haut als Blasen sichtbar werden </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"c28ee306-f551-44e1-ac37-ff298238765a\">Epidermolysis Bulbosa Simplex: betrifft das Stratum basale der Epidermis </p><p class=\"\" id=\"f225528c-8a7e-413a-bb89-f1f2c39876b8\">Bildung defekter Keratinmoleküle → können kein normales Keratin- Netzwerk ausbilden </p><p class=\"\" id=\"3d0a70f8-83f7-4666-9fad-bf38cb3c3b04\">→ leichte Belastungen → Reißen der Zellkörper </p><p class=\"\" id=\"26924165-d870-4746-91f9-76255e9f74df\">Bildung von Flüssigkeitsgefüllten Hohlräumen, die außen an der Haut als Blasen sichtbar werden </p>",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "e,~&=}la[g",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Organisation der Mikrotubuli in der Interphase",
                         "<ul><li>Mit ihrem Minus-Ende an einem Microtubule Organizing Center verankert → bei Menschen und Tieren: Centrosomen\n</li><li>Lage des Centrosomen: nahe des Zellkerns\n</li><li>Aufbau: aus einer Proteinmatrix, in die ein Paar von Centriolen eingebettet ist</li></ul>",
                         "",
@@ -46065,11 +46101,11 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"4da58e7f-e60c-4c25-93ab-aa4a39393a01\" class=\"toggle\"><li><details><summary>Aufbau der Zellkernhülle </summary><div><p class=\"\" id=\"94ff508c-5ae1-4cf0-bc4d-8e894602c5aa\">Äußere und innere Kernmembran</p><p class=\"\" id=\"de49e080-eed1-4dd6-a994-8b10bd0a4a20\">Nukleare Lamina an der Innenseite (aus Intermediärfilamenten, die den Kern stabilisieren) </p><p class=\"\" id=\"66fb1c3b-57e9-4b3a-950e-938ed32f0d2a\">Perinuclolärer Spalt </p><p class=\"\" id=\"a0aeb296-7312-474d-ae26-8663e62720c7\">Kernporen </p><p class=\"\" id=\"a016d869-ff3c-4b47-91a4-17b214e931ac\">Verwachsungen mit ER (aus Membran und Lumen) </p><p class=\"\" id=\"694713f1-5b4b-4d0a-a565-e4f0b2fe0129\"></p></div></details></li></ul>",
-                        "<p class=\"\" id=\"94ff508c-5ae1-4cf0-bc4d-8e894602c5aa\">Äußere und innere Kernmembran</p><p class=\"\" id=\"de49e080-eed1-4dd6-a994-8b10bd0a4a20\">Nukleare Lamina an der Innenseite (aus Intermediärfilamenten, die den Kern stabilisieren) </p><p class=\"\" id=\"66fb1c3b-57e9-4b3a-950e-938ed32f0d2a\">Perinuclolärer Spalt </p><p class=\"\" id=\"a0aeb296-7312-474d-ae26-8663e62720c7\">Kernporen </p><p class=\"\" id=\"a016d869-ff3c-4b47-91a4-17b214e931ac\">Verwachsungen mit ER (aus Membran und Lumen) </p><p class=\"\" id=\"694713f1-5b4b-4d0a-a565-e4f0b2fe0129\"></p>",
+                        "Aufbau der Zellkernhülle",
+                        "<ul><li>Äußere und innere Kernmembran\n</li><ul><li>Nukleare Lamina an der Innenseite (aus Intermediärfilamenten, die den Kern stabilisieren)\n</li></ul><li>Perinuklärer Spalt\n</li><li>Kernporen</li><li>Verwachsungen mit ER (aus Membran und Lumen)\n\n</li></ul>",
                         "",
-                        "",
-                        ""
+                        "Zellorganelle",
+                        "Sisyphos"
                     ],
                     "guid": "ymg<l&(Hc:",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -46091,11 +46127,11 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"95272284-6e88-4f02-a70c-f84a9437f5a4\" class=\"toggle\"><li><details><summary>NLS </summary><div><p class=\"\" id=\"d6d474b1-3fa5-4d9c-8f19-b5ad3cf7f675\">Proteine mit Nucleärem-Lokalisations-Signal (NLS) werden in den Kern transportiert. Ein typisches NLS besteht aus einer Abfolge von 4 bis 8 basischen Aminosäuren (Lysin und Arginin).</p><p class=\"\" id=\"1f8c9049-6862-4883-945e-f0c8c4339f51\">Normales NLS: Pro-Pro-Lys-Lys-Lys-Arg-Lys-Val-</p><p class=\"\" id=\"2c4cc7e1-dfc4-44c9-aa00-ec9f2ed072db\">Mutierten NLS: Pro-Pro-Lys-Thr-Lys-Arg-Lys-Val-</p></div></details></li></ul>",
-                        "<p class=\"\" id=\"d6d474b1-3fa5-4d9c-8f19-b5ad3cf7f675\">Proteine mit Nucleärem-Lokalisations-Signal (NLS) werden in den Kern transportiert. Ein typisches NLS besteht aus einer Abfolge von 4 bis 8 basischen Aminosäuren (Lysin und Arginin).</p><p class=\"\" id=\"1f8c9049-6862-4883-945e-f0c8c4339f51\">Normales NLS: Pro-Pro-Lys-Lys-Lys-Arg-Lys-Val-</p><p class=\"\" id=\"2c4cc7e1-dfc4-44c9-aa00-ec9f2ed072db\">Mutierten NLS: Pro-Pro-Lys-Thr-Lys-Arg-Lys-Val-</p>",
+                        "NLS",
+                        "<ul><li>Proteine mit Nucleärem-Lokalisations-Signal (NLS) werden in den Kern transportiert. </li><li>Ein typisches NLS besteht aus einer Abfolge von 4 bis 8 basischen Aminosäuren (Lysin und Arginin).\n</li><ul><li>Normales NLS: Pro-Pro-Lys-Lys-Lys-Arg-Lys-Val-</li><li>Mutierten NLS: Pro-Pro-Lys-Thr-Lys-Arg-Lys-Val-</li></ul></ul>",
                         "",
-                        "",
-                        ""
+                        "Zellprozesse",
+                        "Sisyphos"
                     ],
                     "guid": "N5+XI>Nq~z",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -51192,6 +51228,19 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Allgemeine Gleichung zum Volumenverhältnis von Puffern",
+                                "\\[V_g = V_B +V_S \\rightarrow V_S = V_g - V_B\\]<br>\\[\\frac{1}{10^{pH-pKs}+1} = \\frac{V_S}{V_G}\\]<br><br>",
+                                "",
+                                "Puffer",
+                                "Sisyphos"
+                            ],
+                            "guid": "NON&oJ.Pr.",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "Hydrogencarbonat- Puffer&nbsp;",
                                 "CO<sub>2</sub> + H<sub>2</sub>O → H<sub>2</sub>CO<sub>3</sub> → HCO<sub>3</sub><sup>-</sup> &nbsp;+ H<sup>+</sup>&nbsp;",
                                 "",
@@ -51296,10 +51345,10 @@
                             "__type__": "Note",
                             "fields": [
                                 "Phosphorsäure&nbsp;",
-                                "H3PO4&nbsp;",
+                                "H<sub>3</sub>PO<sub>4</sub>&nbsp;",
                                 "",
-                                "",
-                                ""
+                                "Substanzen",
+                                "Sisyphos"
                             ],
                             "guid": "F3l/+eTD`2",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -51348,10 +51397,10 @@
                             "__type__": "Note",
                             "fields": [
                                 "Schwefelige Säure&nbsp;",
-                                "HSO3&nbsp;",
+                                "H<sub>2</sub>SO<sub>3</sub>&nbsp;",
                                 "",
-                                "",
-                                ""
+                                "Substanzen",
+                                "Sisyphos"
                             ],
                             "guid": "Ha<Q?$Q^E|",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -51617,8 +51666,7 @@
                         "d3734890a9df6d7d007b40a1cd196888e529f67fa7af07edfc0d9f555de9b1d99f68e41f4254b3653215bd828144a9ba97a7.jpeg",
                         "image-3d6ec3f2640c684ed7089fdb4e8ddc5a46659543.png",
                         "image-91ee55d02e5802e41395dc8cd67a307388874b83.png",
-                        "image-b52a2a6c3e3097be67a8279211c8331364f0e8a6.png",
-                        "image-dc0374fe88d553948b6bf4ce7f56efc1b01c6cd7.png"
+                        "image-b52a2a6c3e3097be67a8279211c8331364f0e8a6.png"
                     ],
                     "name": "Unsortiert",
                     "newLimit": null,
@@ -51673,19 +51721,6 @@
                                 "Sisyphos"
                             ],
                             "guid": "j=.bJ.MXNM",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<ul id=\"cdf71581-9ab0-4175-87a3-d8af93545b76\" class=\"toggle\"><li><details><summary>Beta Plus Zerfall </summary><div><p class=\"\" id=\"da9ca5c1-f7b9-4725-bd5e-4c3fad6ea5d1\">Umwandlung eines überschüssigen Protons in ein Neutron und ein Positron (ß+ Teilchen) </p><p class=\"\" id=\"088181c2-b2e3-469a-ac3b-3d24e999d55e\">Positron ist ein Antielektron </p><p class=\"\" id=\"688ce9ee-5b3a-4689-a9cc-fe8e357d5c87\">Die Massenzahl bleibt gleich, weil ein Proton zum Neutron wird </p><p class=\"\" id=\"c2696bf9-5385-4d15-9c3a-a44f684041d5\">Die Zahl der Protonen wird um eins geringer </p><p class=\"\" id=\"1701604b-d55d-4027-b45d-cf0106df7bdd\">Die Zahl der Protonen wird um eins größer </p></div></details></li></ul>",
-                                "<p class=\"\" id=\"da9ca5c1-f7b9-4725-bd5e-4c3fad6ea5d1\">Umwandlung eines überschüssigen Protons in ein Neutron und ein Positron (ß+ Teilchen) </p><p class=\"\" id=\"088181c2-b2e3-469a-ac3b-3d24e999d55e\">Positron ist ein Antielektron </p><p class=\"\" id=\"688ce9ee-5b3a-4689-a9cc-fe8e357d5c87\">Die Massenzahl bleibt gleich, weil ein Proton zum Neutron wird </p><p class=\"\" id=\"c2696bf9-5385-4d15-9c3a-a44f684041d5\">Die Zahl der Protonen wird um eins geringer </p><p class=\"\" id=\"1701604b-d55d-4027-b45d-cf0106df7bdd\">Die Zahl der Neutronen wird um eins größer </p>",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "IKK>c/Z,{+",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         },
@@ -52342,19 +52377,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<ul id=\"ab8056ec-1ed9-4b55-b789-53cac3f0747c\" class=\"toggle\"><li><details><summary>Bespiel Nummer 1 Druck </summary><div><p class=\"\" id=\"b1251ffa-c06a-4e3c-a71a-25c32da5d2a6\">Reaktion von <strong>Stickstoffdioxid</strong> zu <strong>Distickstofftetraoxid</strong> </p></div></details></li></ul>",
-                                "<p class=\"\" id=\"b1251ffa-c06a-4e3c-a71a-25c32da5d2a6\">Reaktion von <strong>Stickstoffdioxid</strong> zu <strong>Distickstofftetraoxid</strong> </p>",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "qO?!tL&IGy",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Einfluss der Konzentration",
                                 "<u>Allgemein</u>\n<br>Wird die Konzentration eines Stoffs erhöht, verschiebt sich die Reaktion so, dass dieser Stoff verbraucht wird und die Konzentrationen werden so angepasst, dass der Konzentrationsquotiemt wieder Kc entspricht. Das heißt, dass sich, wird die Konzentration des einen Edukts erhöht wird, die des anderen Edukts vermindert wird, während das Produkt durch den steigenden Anteil an Hinreaktionen erhöht wird.\n<br><br>Demnach ist nach Nernst der Quotient aus zwei Konzentrationen konstant.",
                                 "",
@@ -52453,19 +52475,6 @@
                                 "Sisyphos"
                             ],
                             "guid": "GiFUo3Zt|Y",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Allgemeine Gleichung zum Volumenverhältnis von Puffern",
-                                "<img src=\"image-dc0374fe88d553948b6bf4ce7f56efc1b01c6cd7.png\">",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "NON&oJ.Pr.",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         },
@@ -52698,6 +52707,19 @@
                                 "Sisyphos"
                             ],
                             "guid": "ki6N_(yL+W",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Beta Plus Zerfall",
+                                "<ul><li>Umwandlung eines überschüssigen Protons in ein Neutron und ein Positron (ß+ Teilchen)\n</li><li>Positron ist ein Antielektron\n</li><li>Die Massenzahl bleibt gleich, weil ein Proton zum Neutron wird\n</li><li>Die Zahl der Protonen wird um eins geringer\n</li><li>Die Zahl der Neutronen wird um eins größer</li></ul>",
+                                "",
+                                "Radioaktivität",
+                                "Sisyphos"
+                            ],
+                            "guid": "IKK>c/Z,{+",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         },
