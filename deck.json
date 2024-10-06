@@ -26019,7 +26019,7 @@
                                     "fields": [
                                         "6a664508555e489fa75f7ab19b3fb128-ao-8",
                                         "",
-                                        "<img src=\"IMG_0F0B11265F55-1.jpeg\" />",
+                                        "<img src=\"IMG_0F0B11265F55-1.jpeg\">",
                                         "<img src=\"6a664508555e489fa75f7ab19b3fb128-ao-8-Q.svg\" />",
                                         "",
                                         "",
@@ -26027,7 +26027,7 @@
                                         "",
                                         "",
                                         "<img src=\"6a664508555e489fa75f7ab19b3fb128-ao-8-A.svg\">",
-                                        "<img src=\"6a664508555e489fa75f7ab19b3fb128-ao-O.svg\" />"
+                                        "<img src=\"6a664508555e489fa75f7ab19b3fb128-ao-O.svg\">"
                                     ],
                                     "guid": "mE*4~$~9.i",
                                     "note_model_uuid": "36d5ce9b-66f2-11ef-b8e5-60f677a7f746",
@@ -26134,7 +26134,7 @@
                                         "f05b9f2f6a014ee7b621764d4666fe3e-ao-1",
                                         "Ellenbogen",
                                         "<img src=\"IMG_2C4D8B9A35FB-1.jpeg\">",
-                                        "<img src=\"f05b9f2f6a014ee7b621764d4666fe3e-ao-1-Q.svg\" />",
+                                        "<img src=\"f05b9f2f6a014ee7b621764d4666fe3e-ao-1-Q.svg\">",
                                         "",
                                         "",
                                         "",
@@ -44958,6 +44958,19 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Splicing",
+                                "<ul><li>Eukaryotische Gene: enthalten codierende und nicht codierende Abschnitte → Exons und Introns\n</li><li>Introns werden nicht mit transkribiert, aber durch spezifische Enzyme herausgeschnitten</li></ul>",
+                                "",
+                                "Proteinsynthese",
+                                "Sisyphos"
+                            ],
+                            "guid": "M-cmNG@7hD",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "Translation - Initiierung",
                                 "<div style=\"text-align: left;\">Methionin aus dem Cytoplasma bindet an Peptidylstelle (Startcodon AUG)</div><div style=\"text-align: left;\">→ mRNA bindet in der 40S Untereinheit</div><div style=\"text-align: left;\">→ Suche nach dem Startcodon vom 5´-Ende aus, Erkennung des Startcodons durch Initiationsfaktoren (wichtig: Startcodon liegt nie direkt am 5`-Ende</div><div style=\"text-align: left;\">→ initiator tRNA trägt das Anticodon und bindet an der P-Stelle an das Methionin (nur bei der Initiation befindet sich eine tRNA auf der P-Stelle)</div><div style=\"text-align: left;\">→ Anlagerung der größeren Untereinheit zum fertigen Translationskomplex: A-Stelle für neue tRNA frei</div><div style=\"text-align: left;\">→ Bindung einer passenden Aminoacetyl-tRNA und potentielle Abspaltung des Methionins</div>",
                                 "",
@@ -44978,6 +44991,232 @@
                                 "Sisyphos"
                             ],
                             "guid": "nVe&jE(zDC",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kommt die Aminosäure Kette ins ER",
+                                "<div style=\"text-align: left;\">Verankerung des Ribosoms nach Beginn der Proteinsynthese im ER<br>&nbsp;→ Verankerung bis Abschluss der Synthese des Proteins<br>&nbsp;→ Ablösung durch SRP aus dem Cytoplasma<br>&nbsp;→ SRP erkennt Signalpeptid (bestimmte AS-Sequenz am Anfang des Proteins) und bindet daran<br>&nbsp;→ Stop der Translation, damit das Protein nicht schon im Cytoplasma fertig synthesiert wird<br>&nbsp;→ SRP und Ribosom binden an Rezeptor an der Außenseite des Cytoplasmas<br>&nbsp;→ Freisetzung/ Ablösen SRP und Verankerung des Ribosoms an einer Pore in der ER-Membran (Proteintranslokator)<br>&nbsp;→ durch Translokator wird Protein während seiner Synthese (fängt nach Ablösen des SRP wieder an) in das ER-Lumen eingeschleust<br>Allgemein: Signalpeptid am Aminoterminus von Proteinen: wichtiges Struktur für die korrekte Sortierung von entsprechenden Proteinen<br></div>",
+                                "",
+                                "Proteine",
+                                "Sisyphos"
+                            ],
+                            "guid": "nxrWe)R/Yc",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        }
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "88f3c097-82b1-11ef-b1d7-60f677a7f746",
+                    "deck_config_uuid": "b3c2df35-c040-11ee-861a-60f677a7f746",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Zellorganelle",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nach welchem Schema sind die Basalkörper von Cilien und Geißeln aufgebaut?",
+                                "9 Mikrotubulitripletts im Kreis",
+                                "",
+                                "Zellorganelle",
+                                "Sisyphos"
+                            ],
+                            "guid": "j(L7II?=4w",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Beschreiben Sie bitte kurz die Struktur und Funktion von Lysosomen",
+                                "<ul><li>Mehr oder minder rundliche Organellen</li><li>einfache Membran</li><li>Durchmesser bis ca. 500 nm, gefüllt mit ca. 40 verschiedenen Verdauungsenzyme</li><li>pH ca. 5 beim Menschen, in der Membran Protonenpumpe und Transportproteine für verschiedene Abbauprodukte, wie z. B. Aminosäuren</li><li>Hauptfunktion: zentrales Verdauungsorganes</li></ul>",
+                                "",
+                                "Zellorganelle",
+                                "Sisyphos"
+                            ],
+                            "guid": "RgN-,4t8Zm",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nennen Sie ein Beispiel für eine Abbaureaktion, die in Peroxisomen abläuft",
+                                "vor allem in Peroxisomen von Leber und Niere Abbau von Ethanol zu Acetaldehyd, oder Abbau langkettiger Fettsäuren mit mehr als 20 C-Atomen",
+                                "",
+                                "Zellorganelle",
+                                "Sisyphos"
+                            ],
+                            "guid": "B9a!kW}j$h",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cytoplasmamembran",
+                                "Im EM Bild Doppellipidschicht erkennbar, Einlagerung vieler Proteine",
+                                "",
+                                "Zellorganelle",
+                                "Sisyphos"
+                            ],
+                            "guid": "JT>.2kV}GB",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Centrosomen",
+                                "<ul><li>Zentraler Punkt des Minus-Endes der Mikrotubuli\n</li><li>Y-Tubulin-Komplex: Ring-Komplex in der Hülle um die Centriolen\n</li><li>Verankern die Mikrotubuli</li></ul>",
+                                "",
+                                "Zellorganelle",
+                                "Sisyphos"
+                            ],
+                            "guid": "Fv`xUMw4!}",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cilien",
+                                "<ul><li>Identischer Aufbau wie Flagellen, aber deutlich kürzer\n</li><li>Auftreten meist dicht gepackt und in großer Zahl</li><li>Länge: 10 nm\n</li><li>Nutzung zur Nahrungsaufnahme, im respiratorischen Epithel oder dem Ovidukt</li></ul>",
+                                "",
+                                "Zellorganelle",
+                                "Sisyphos"
+                            ],
+                            "guid": "xM-F985Z0W",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zellkern",
+                                "<ul><li>Kernhülle: Doppelmembran\n</li><li>Äußere Membran: geht in das ER über\n</li><li>Innenseite: Kernlamina (enthält Intermediärfilamente)</li><ul><li>Wird durch sogenannte Kernporen durchbohrt → Transportvorgänge zwischen Kern und Cytoplasma</li></ul></ul>",
+                                "",
+                                "Zellorganelle",
+                                "Sisyphos"
+                            ],
+                            "guid": "haG:^21[y$",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Aufbau der Zellkernhülle",
+                                "<ul><li>Äußere und innere Kernmembran\n</li><ul><li>Nukleare Lamina an der Innenseite (aus Intermediärfilamenten, die den Kern stabilisieren)\n</li></ul><li>Perinuklärer Spalt\n</li><li>Kernporen</li><li>Verwachsungen mit ER (aus Membran und Lumen)\n\n</li></ul>",
+                                "",
+                                "Zellorganelle",
+                                "Sisyphos"
+                            ],
+                            "guid": "ymg<l&(Hc:",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Aufbau des endoplasmatischen Retikulums",
+                                "<ul><li>Zusammenhängendes System aus Röhren und Zisternen\n</li><li>Auf der Membran: Ribosomen→ deshalb raues ER</li></ul>",
+                                "",
+                                "Zellorganelle",
+                                "Sisyphos"
+                            ],
+                            "guid": "Ar{hvh;lON",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div style=\"text-align: left;\">Aufgaben des rauen ER&nbsp;</div>",
+                                "<div style=\"text-align: left;\">Proteinbiosynthese</div><div style=\"text-align: left;\">N-Glykolisierung</div><div style=\"text-align: left;\">Lipidbiosynthese</div><div style=\"text-align: left;\">Calcium- Ionen- Speicher</div>",
+                                "",
+                                "Zellorganelle",
+                                "Sisyphos"
+                            ],
+                            "guid": "IEZckVtE7r",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Aufgaben des glatten ER",
+                                "<div style=\"text-align: left;\">Calcium-Ionenspeicher</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Steroidhormonsynthese → basierend auf Cholesterin mit vielen Enzymen</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Entgiftung hydrophober Verbindungen v.a in der Leber → macht sie wasserlöslicher</div>",
+                                "",
+                                "Zellorganelle",
+                                "Sisyphos"
+                            ],
+                            "guid": "x%]0oJ=L6x",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Aufbau des Golgi-Apparats",
+                                "<div style=\"text-align: left;\">- CGN:&nbsp;</div><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div style=\"text-align: left;\">- cis-Golgi Netzwerk,&nbsp;</div><div style=\"text-align: left;\">- verbunden mit einem Röherenartigen Geflecht (TGN),&nbsp;</div><div style=\"text-align: left;\">- Eingangsseite der Proteine</div></blockquote><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">- Mediale Zisterne</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">- TGN:&nbsp;</div><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div style=\"text-align: left;\">- trans-Golgi Netzwerk,&nbsp;</div><div style=\"text-align: left;\">- röhrenartiges Geflecht,&nbsp;</div><div style=\"text-align: left;\">- Ausgangsseite,&nbsp;</div><div style=\"text-align: left;\">- Verpackung der Proteine in Transportvesikel und Transport zu Bestimmungsort</div></blockquote><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">- Gesamtheit: Diktyosom</div><div style=\"text-align: left;\">- Stapel aus „pfannkuchenartigen“ Zisternen</div>",
+                                "",
+                                "Zellorganelle",
+                                "Sisyphos"
+                            ],
+                            "guid": "NKw*C^Y/OY",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Vorgänge am Golgi",
+                                "<div style=\"text-align: left;\">- Nach Transport durch das ER und den Golgi-Apparat werden die fertigen Proteine vom TGN aus zu ihren Bestimmungsorten transportiert</div><div style=\"text-align: left;\">- Bei diesen Bestimmungsorten handelt es sich um Endosomen (hier werden die sauren Hydrolasen hin transportiert)</div><div style=\"text-align: left;\">∟ zusätzlich die Plasmamembran/den Extrazellularraum (dies ist das Ziel von integralen Plasmamembranproteinen bzw. löslichen sezernierten Proteinen)</div><div style=\"text-align: left;\">COP I:&nbsp; vom Golgi zurück zum ER</div><div style=\"text-align: left;\">COP II: vom ER zum Golgi</div>",
+                                "",
+                                "Zellorganelle",
+                                "Sisyphos"
+                            ],
+                            "guid": "GhsCPh;><c",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erkennung und Sortierung lysosomaler Verdauungsenzyme am Golgi-Apparat",
+                                "<ul><li>Alle Säuren Hydrolasen: Glykoproteine und enthalten einen oder mehrere Hydrolasereste </li><li>Im CGN: Phospholierung des 6. C-Atoms der Mannose </li><ul><li>∟ Zucker sind Kohlenwasserstoffe mit vielen OH-Gruppen, das heißt, sie reagieren gerne und es kann sich dementsprechend alles mögliche gut anlagern&nbsp;</li><ul><li>→ z.B Proteine</li></ul></ul><li>→ Enstehung von Mannose-6-Phosphat (6, weil am 6. C-Atom gebunden)<br></li><ul><li>→ durch M6P Zuordnung zum Lysosom möglich (ähnlich wie ein Perso der quasi die Nationalität angibt)\n</li><li>→ Erkennung des M6P durch Rezeptoren am TGN\n</li><li>→ Bindung lysosomaler, spezifischer Enzyme\n</li><li>→ zusammen mit Enzymen: Verpackung von Verdauungsenzymen in Enzymen und Transport zum frühen Endosomen\n</li><li>→ Transport des Rezeptor/Hydrolasekomlexes zum späten Endosomen\n</li><li>→ M6P- Rezeptoren von Verdauungsenzymen</li><li>→ Reifung zu Lysosomen und Recycling des Rezeptors</li></ul></ul>",
+                                "",
+                                "Zellprozesse",
+                                "Sisyphos"
+                            ],
+                            "guid": "g{Zv$/KGJI",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Aufbau eines Mitochondriums",
+                                "<ul><li>Innenraum des Mitochondriums mit Einstülpungen der Christae: Matrix\n</li><li>Zwischen inneren und äußeren Membran: Intermembranraum\n</li><li>In der Matrix: mitochondriale DNA, Ribosome, tRNA und zahlreiche Enzyme\n</li><li>Enzyme im Mitochondrium: Citratzyklus, Abbau von Fettsäuren, Proteinbiosynthese\n</li><li>An innerer Membran: ATP-Synthase (Enzym zur Herstellung von ATP), Proteine für Transport und für die Atmungskette</li></ul>",
+                                "",
+                                "Zellorganelle",
+                                "Sisyphos"
+                            ],
+                            "guid": "C?P]SEYS%?",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         }
@@ -45230,19 +45469,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Nach welchem Schema sind die Basalkörper von Cilien und Geißeln aufgebaut?",
-                        "9 Mikrotubulitripletts im Kreis",
-                        "",
-                        "Zellorganelle",
-                        "Sisyphos"
-                    ],
-                    "guid": "j(L7II?=4w",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Wo liegt die Auflösungsgrenze des Lichtmikroskops",
                         "bei ca. 200 nm",
                         "",
@@ -45360,19 +45586,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Beschreiben Sie bitte kurz die Struktur und Funktion von Lysosomen",
-                        "<ul><li>Mehr oder minder rundliche Organellen</li><li>einfache Membran</li><li>Durchmesser bis ca. 500 nm, gefüllt mit ca. 40 verschiedenen Verdauungsenzyme</li><li>pH ca. 5 beim Menschen, in der Membran Protonenpumpe und Transportproteine für verschiedene Abbauprodukte, wie z. B. Aminosäuren</li><li>Hauptfunktion: zentrales Verdauungsorganes</li></ul>",
-                        "",
-                        "Zellorganelle",
-                        "Sisyphos"
-                    ],
-                    "guid": "RgN-,4t8Zm",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Wie ist der pH im Inneren der Lysosomen und welche Vorteile könnte das haben?",
                         "Dadurch, dass die lysosomalen Hydrolasen nur im sauren Bereich aktiv sind, ist die Zelle gut vor Selbstverdauung geschützt, wenn Lysosomen lecken - was immer mal vorkommt",
                         "",
@@ -45464,19 +45677,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Nennen Sie ein Beispiel für eine Abbaureaktion, die in Peroxisomen abläuft",
-                        "vor allem in Peroxisomen von Leber und Niere Abbau von Ethanol zu Acetaldehyd, oder Abbau langkettiger Fettsäuren mit mehr als 20 C-Atomen",
-                        "",
-                        "Zellorganelle",
-                        "Sisyphos"
-                    ],
-                    "guid": "B9a!kW}j$h",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Signalübertragung",
                         "<div style=\"text-align: left;\">Endokrine: Hormone über den Blutweg, Weitläufige Verteilung von Hormonen über den Blutweg</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Synaptische: zwischen Neuronen des Nervensystems; elektrische Reize lösen Stoffausschüttung aus → Diffusion</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Parakrine: Diffusion von Hormonen oder ähnlichen Stoffen in den Interzellularraum</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Autokrine:&nbsp;</div><div style=\"text-align: left;\">→ Zelle bildet ein Signal</div><div style=\"text-align: left;\">→ nach Freisetzung bindet an Rezeptor der gleichen signalbildenden Zelle&nbsp;</div><div style=\"text-align: left;\">→ und Rezeptoren unmittelbar benachbarter Zellen des gleichen Zelltyps (feedback)</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Kontaktabhängig(juxtakrine): nur über Zellen, die in unmittelbarem Kontakt miteinander stehen;&nbsp;</div><div style=\"text-align: left;\">→ über gap junctions, Passage und Diffusion von kleinen Molekülen;&nbsp;</div><div style=\"text-align: left;\">→Exprimierung komplementärer membrangebundener Proteine (Zelle 1 mit Ligand, Zelle 2 mit Rezeptor) auf Oberfläche</div>",
                         "",
@@ -45484,19 +45684,6 @@
                         "Sisyphos"
                     ],
                     "guid": "c!Bp%,NQ/U",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<ul id=\"0584ae1c-e748-49f8-b886-57d7273810df\" class=\"toggle\"><li><details><summary>Cytoplasmamembran </summary><div><p class=\"\" id=\"118792d7-69ef-40e9-85dd-0379a2abbab0\">Im EM Bild Doppellipidschicht erkennbar, Einlagerung vielerlei Proteine</p></div></details></li></ul>",
-                        "<p class=\"\" id=\"118792d7-69ef-40e9-85dd-0379a2abbab0\">Im EM Bild Doppellipidschicht erkennbar, Einlagerung vielerlei Proteine</p>",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "JT>.2kV}GB",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                     "tags": []
                 },
@@ -45958,32 +46145,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Centrosomen",
-                        "<ul><li>Zentraler Punkt des Minus-Endes der Mikrotubuli\n</li><li>Y-Tubulin-Komplex: Ring-Komplex in der Hülle um die Centriolen\n</li><li>Verankern die Mikrotubuli</li></ul>",
-                        "",
-                        "Zellorganelle",
-                        "Sisyphos"
-                    ],
-                    "guid": "Fv`xUMw4!}",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Cilien",
-                        "<ul><li>Identischer Aufbau wie Flagellen, aber deutlich kürzer\n</li><li>Auftreten meist dicht gepackt und in großer Zahl</li><li>Länge: 10 nm\n</li><li>Nutzung zur Nahrungsaufnahme, im respiratorischen Epithel oder dem Ovidukt</li></ul>",
-                        "",
-                        "Zellorganelle",
-                        "Sisyphos"
-                    ],
-                    "guid": "xM-F985Z0W",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Bewegungsspiele von Cilien",
                         "<ul><li>Bei Kraftschlag steif zur Verdängung von viel Flüssigkeit\n</li><li>Rückholschlag: Cilie locker ohne viel Flüssigkeit zu verdrängen, schlängelt sich über die Plasmamembran\n</li><li>Bewegung in die Richtung des Kraftschlages\n</li></ul>",
                         "",
@@ -46075,19 +46236,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Zellkern",
-                        "<ul><li>Kernhülle: Doppelmembran\n</li><li>Äußere Membran: geht in das ER über\n</li><li>Innenseite: Kernlamina (enthält Intermediärfilamente)</li><ul><li>Wird durch sogenannte Kernporen durchbohrt → Transportvorgänge zwischen Kern und Cytoplasma</li></ul></ul>",
-                        "",
-                        "Zellorganelle",
-                        "Sisyphos"
-                    ],
-                    "guid": "haG:^21[y$",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Entstehung des Zellkerns",
                         "<div style=\"text-align: left;\">Aus einem früher Prokaryoten vor circa 1,5 Milliarden Jahren</div><div style=\"text-align: left;\">Einstülpung der Plasmamembran mit membrangebundenen Ribosomen</div><div style=\"text-align: left;\">→ Invagination der Zelloberfläche</div><div style=\"text-align: left;\">→ Umschließen der DNA durch eingestülpte Zellmembran und Abtrennung aus dem Cytosol</div>",
                         "",
@@ -46095,19 +46243,6 @@
                         "Sisyphos"
                     ],
                     "guid": "1/cK/3Zkd",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Aufbau der Zellkernhülle",
-                        "<ul><li>Äußere und innere Kernmembran\n</li><ul><li>Nukleare Lamina an der Innenseite (aus Intermediärfilamenten, die den Kern stabilisieren)\n</li></ul><li>Perinuklärer Spalt\n</li><li>Kernporen</li><li>Verwachsungen mit ER (aus Membran und Lumen)\n\n</li></ul>",
-                        "",
-                        "Zellorganelle",
-                        "Sisyphos"
-                    ],
-                    "guid": "ymg<l&(Hc:",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                     "tags": []
                 },
@@ -46205,19 +46340,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"93ba6706-b7f2-4a12-a1b9-bc9eb8d974cd\" class=\"toggle\"><li><details><summary>Splicing </summary><div><p class=\"\" id=\"d2917a4e-c64f-4011-9a48-51f28de9c3a0\">Eukaryotische Gene: enthalten codierende und nicht codierende Abschnitte → Exons und Introns </p><p class=\"\" id=\"29d82a54-2260-4b63-bbf0-eb90c4fc2494\">Introns werden nicht mit transkribiert, aber durch spezifische Enzyme herausgeschnitten </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"d2917a4e-c64f-4011-9a48-51f28de9c3a0\">Eukaryotische Gene: enthalten codierende und nicht codierende Abschnitte → Exons und Introns </p><p class=\"\" id=\"29d82a54-2260-4b63-bbf0-eb90c4fc2494\">Introns werden nicht mit transkribiert, aber durch spezifische Enzyme herausgeschnitten </p>",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "M-cmNG@7hD",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Matrizenstrang",
                         "Ein Gen liegt normalerweise nur auf einem DNA-Strang. <br>Dieser Strang wird als Matrizenstrang bezeichnet. <br>Die Transkription des zum Matrizenstrang komplementären Strangs (der als nicht-Matrizenstrang oder codierender Strang bezeichnet wird) würde zu einer völlig anderen Basen-/Aminosäuresequenz führen und damit zur Synthese eines unbrauchbaren Proteins. Es liegen aber auf beiden DNA- Strängen zahlreiche Gene, so dass für manche Gene der eine und für manche Gene der andere DNA-Strang der Matrizenstrang ist. Welcher Strang jeweils transkribiert wird, ist durch die Lage des Promotors festgelegt.<br><font color=\"#ff6366\">!!!Verbessern!!!</font>",
                         "",
@@ -46270,19 +46392,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Aufbau des endoplasmatischen Retikulums",
-                        "<ul><li>Zusammenhängendes System aus Röhren und Zisternen\n</li><li>Auf der Membran: Ribosomen→ deshalb raues ER</li></ul>",
-                        "",
-                        "Zellorganelle",
-                        "Sisyphos"
-                    ],
-                    "guid": "Ar{hvh;lON",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Aufbau eines SRP",
                         "<ul><li>Signal-recognition-Particle\n</li><li>Aus 6 Protein-Untereinheiten und einem RNA Molekül\n</li><li>Mit einer Signalpeptid-Bindungsstelle</li></ul>",
                         "",
@@ -46290,19 +46399,6 @@
                         "Sisyphos"
                     ],
                     "guid": "yhu3|*>t-U",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie kommt die Aminosäure Kette ins ER",
-                        "<div style=\"text-align: left;\">Verankerung des Ribosoms nach Beginn der Proteinsynthese im ER<br>&nbsp;→ Verankerung bis Abschluss der Synthese des Proteins<br>&nbsp;→ Ablösung durch SRP aus dem Cytoplasma<br>&nbsp;→ SRP erkennt Signalpeptid (bestimmte AS-Sequenz am Anfang des Proteins) und bindet daran<br>&nbsp;→ Stop der Translation, damit das Protein nicht schon im Cytoplasma fertig synthesiert wird<br>&nbsp;→ SRP und Ribosom binden an Rezeptor an der Außenseite des Cytoplasmas<br>&nbsp;→ Freisetzung/ Ablösen SRP und Verankerung des Ribosoms an einer Pore in der ER-Membran (Proteintranslokator)<br>&nbsp;→ durch Translokator wird Protein während seiner Synthese (fängt nach Ablösen des SRP wieder an) in das ER-Lumen eingeschleust<br>Allgemein: Signalpeptid am Aminoterminus von Proteinen: wichtiges Struktur für die korrekte Sortierung von entsprechenden Proteinen<br></div>",
-                        "",
-                        "Proteine",
-                        "Sisyphos"
-                    ],
-                    "guid": "nxrWe)R/Yc",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                     "tags": []
                 },
@@ -46348,71 +46444,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<div style=\"text-align: left;\">Aufgaben des rauen ER&nbsp;</div>",
-                        "<div style=\"text-align: left;\">Proteinbiosynthese</div><div style=\"text-align: left;\">N-Glykolisierung</div><div style=\"text-align: left;\">Lipidbiosynthese</div><div style=\"text-align: left;\">Calcium- Ionen- Speicher</div>",
-                        "",
-                        "Zellorganelle",
-                        "Sisyphos"
-                    ],
-                    "guid": "IEZckVtE7r",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Aufgaben des glatten ER",
-                        "<div style=\"text-align: left;\">Calcium-Ionenspeicher</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Steroidhormonsynthese → basierend auf Cholesterin mit vielen Enzymen</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Entgiftung hydrophober Verbindungen v.a in der Leber → macht sie wasserlöslicher</div>",
-                        "",
-                        "Zellorganelle",
-                        "Sisyphos"
-                    ],
-                    "guid": "x%]0oJ=L6x",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Aufbau des Golgi-Apparats",
-                        "<div style=\"text-align: left;\">- CGN:&nbsp;</div><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div style=\"text-align: left;\">- cis-Golgi Netzwerk,&nbsp;</div><div style=\"text-align: left;\">- verbunden mit einem Röherenartigen Geflecht (TGN),&nbsp;</div><div style=\"text-align: left;\">- Eingangsseite der Proteine</div></blockquote><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">- Mediale Zisterne</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">- TGN:&nbsp;</div><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div style=\"text-align: left;\">- trans-Golgi Netzwerk,&nbsp;</div><div style=\"text-align: left;\">- röhrenartiges Geflecht,&nbsp;</div><div style=\"text-align: left;\">- Ausgangsseite,&nbsp;</div><div style=\"text-align: left;\">- Verpackung der Proteine in Transportvesikel und Transport zu Bestimmungsort</div></blockquote><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">- Gesamtheit: Diktyosom</div><div style=\"text-align: left;\">- Stapel aus „pfannkuchenartigen“ Zisternen</div>",
-                        "",
-                        "Zellorganelle",
-                        "Sisyphos"
-                    ],
-                    "guid": "NKw*C^Y/OY",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Vorgänge am Golgi",
-                        "<div style=\"text-align: left;\">- Nach Transport durch das ER und den Golgi-Apparat werden die fertigen Proteine vom TGN aus zu ihren Bestimmungsorten transportiert</div><div style=\"text-align: left;\">- Bei diesen Bestimmungsorten handelt es sich um Endosomen (hier werden die sauren Hydrolasen hin transportiert)</div><div style=\"text-align: left;\">∟ zusätzlich die Plasmamembran/den Extrazellularraum (dies ist das Ziel von integralen Plasmamembranproteinen bzw. löslichen sezernierten Proteinen)</div><div style=\"text-align: left;\">COP I:&nbsp; vom Golgi zurück zum ER</div><div style=\"text-align: left;\">COP II: vom ER zum Golgi</div>",
-                        "",
-                        "Zellorganelle",
-                        "Sisyphos"
-                    ],
-                    "guid": "GhsCPh;><c",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Erkennung und Sortierung lysosomaler Verdauungsenzyme am Golgi-Apparat",
-                        "<ul><li>Alle Säuren Hydrolasen: Glykoproteine und enthalten einen oder mehrere Hydrolasereste </li><li>Im CGN: Phospholierung des 6. C-Atoms der Mannose </li><ul><li>∟ Zucker sind Kohlenwasserstoffe mit vielen OH-Gruppen, das heißt, sie reagieren gerne und es kann sich dementsprechend alles mögliche gut anlagern&nbsp;</li><ul><li>→ z.B Proteine</li></ul></ul><li>→ Enstehung von Mannose-6-Phosphat (6, weil am 6. C-Atom gebunden)<br></li><ul><li>→ durch M6P Zuordnung zum Lysosom möglich (ähnlich wie ein Perso der quasi die Nationalität angibt)\n</li><li>→ Erkennung des M6P durch Rezeptoren am TGN\n</li><li>→ Bindung lysosomaler, spezifischer Enzyme\n</li><li>→ zusammen mit Enzymen: Verpackung von Verdauungsenzymen in Enzymen und Transport zum frühen Endosomen\n</li><li>→ Transport des Rezeptor/Hydrolasekomlexes zum späten Endosomen\n</li><li>→ M6P- Rezeptoren von Verdauungsenzymen</li><li>→ Reifung zu Lysosomen und Recycling des Rezeptors</li></ul></ul>",
-                        "",
-                        "Zellprozesse",
-                        "Sisyphos"
-                    ],
-                    "guid": "g{Zv$/KGJI",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Konstitutive Sekretion",
                         "<div style=\"text-align: left;\"><ul><li>ständig und ohne Signal,</li><li>enthalten Proteine der Membran und/ oder die EZM;</li><li>Transport der Vesikel zur Zelloberfläche;</li><li>Verschmelzen mit der Membran durch Exozytose;</li><li>Kompensation der Verkleinerung der Zelloberfläche durch Clathrin vermittelte Endozytose</li></ul></div>",
                         "",
@@ -46446,19 +46477,6 @@
                         "Sisyphos"
                     ],
                     "guid": "DLP.%,h529",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Aufbau eines Mitochondriums",
-                        "<ul><li>Innenraum des Mitochondriums mit Einstülpungen der Christae: Matrix\n</li><li>Zwischen inneren und äußeren Membran: Intermembranraum\n</li><li>In der Matrix: mitochondriale DNA, Ribosome, tRNA und zahlreiche Enzyme\n</li><li>Enzyme im Mitochondrium: Citratzyklus, Abbau von Fettsäuren, Proteinbiosynthese\n</li><li>An innerer Membran: ATP-Synthase (Enzym zur Herstellung von ATP), Proteine für Transport und für die Atmungskette</li></ul>",
-                        "",
-                        "Zellorganelle",
-                        "Sisyphos"
-                    ],
-                    "guid": "C?P]SEYS%?",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                     "tags": []
                 },
@@ -47370,7 +47388,39 @@
                 },
                 {
                     "__type__": "Deck",
-                    "children": [],
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "88f6091a-82b1-11ef-a718-60f677a7f746",
+                            "deck_config_uuid": "b3c2df35-c040-11ee-861a-60f677a7f746",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "PSE",
+                            "newLimit": null,
+                            "newLimitToday": null,
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Trivialnamen der acht Hauptgruppen",
+                                        "<ol><li>Hauptgruppe: Alkalimetalle </li><li>Hauptgruppe: Erdalkalimetalle </li><li>Hauptgruppe: Erdmetalle </li><li>Hauptgruppe: Kohlenstoffgruppe</li><li>Hauptgruppe: Stickstoffgruppe </li><li>Hauptgruppe: Chalkogene </li><li>Hauptgruppe: Halogene </li><li>Hauptgruppe: Edelgase </li></ol>",
+                                        "",
+                                        "PSE",
+                                        "Sisyphos"
+                                    ],
+                                    "guid": "vxYMFHGHOA",
+                                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                                    "tags": []
+                                }
+                            ],
+                            "reviewLimit": null,
+                            "reviewLimitToday": null
+                        }
+                    ],
                     "crowdanki_uuid": "eaf8283a-5c87-11ef-b58d-60f677a7f746",
                     "deck_config_uuid": "b3c2df35-c040-11ee-861a-60f677a7f746",
                     "desc": "",
@@ -47450,6 +47500,19 @@
                                 "Sisyphos"
                             ],
                             "guid": "qyDFTvWiLH",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Schalen",
+                                "<ul><li>Hauptquantenzahlen = Schalen der Elektronenhülle</li><li>Zunehmende Energie der Elektronen mit zunehmender Entfernung zum Atomkern</li></ul>",
+                                "",
+                                "Grundlagen",
+                                "Sisyphos"
+                            ],
+                            "guid": "x}?s62/.Y~",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         },
@@ -51818,19 +51881,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<ul id=\"17758a0b-b4b2-4df5-9efb-f4d84f66a968\" class=\"toggle\"><li><details><summary>Schalen </summary><div><p class=\"\" id=\"87f0dd7b-8fa5-4ca9-b9e3-d7b434ba2efd\">Hauptquantenzahlen= Schalen der Elektronenhülle</p><p class=\"\" id=\"e320ef28-ffdd-4f27-a9de-81e95cb9e737\">Zunehmende Energie der Elektronen mit Zunehmender Entfernung zumAtomkern </p><p class=\"\" id=\"b0d0ba5f-69f2-4c7c-a294-4e30d9bb4f00\"></p></div></details></li></ul>",
-                                "<p class=\"\" id=\"87f0dd7b-8fa5-4ca9-b9e3-d7b434ba2efd\">Hauptquantenzahlen= Schalen der Elektronenhülle</p><p class=\"\" id=\"e320ef28-ffdd-4f27-a9de-81e95cb9e737\">Zunehmende Energie der Elektronen mit Zunehmender Entfernung zumAtomkern </p><p class=\"\" id=\"b0d0ba5f-69f2-4c7c-a294-4e30d9bb4f00\"></p>",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "x}?s62/.Y~",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Valenzschale",
                                 "<ul><li>Äußerste Schale\n</li><li>Definiert die Wertigkeit und die Reaktivität → wie viele Bindungen ein Atom eingeht</li></ul>",
                                 "",
@@ -51942,19 +51992,6 @@
                                 "Sisyphos"
                             ],
                             "guid": "GrlZueRwx;",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<ul id=\"56e21018-8bf2-4222-aed0-888b3f8f815f\" class=\"toggle\"><li><details><summary>Trivialnamen der acht Hauptgruppen</summary><div><p class=\"\" id=\"aab9fcb8-be78-4ff1-bb0a-6dd3ec28d166\">1.Hauptgruppe: Alkalimetalle </p><p class=\"\" id=\"cfcfc99b-0b3b-40bc-9b5c-89d8a2784d1e\">2.Hauptgruppe: Erdalkalimetalle </p><p class=\"\" id=\"e21fb55b-e22c-4aea-8e38-b5ec3bc36cd7\">3.Hauptgruppe: Erdmetalle </p><p class=\"\" id=\"e3dc705c-98b9-40f6-ba48-73bc703287fc\">4.Hauptgruppe: Kohlenstoffgruppe</p><p class=\"\" id=\"1ebcd6aa-f94c-48a9-8735-887dcacbb635\">5.Hauptgruppe: Stickstoffgruppe </p><p class=\"\" id=\"257e64cd-f8b2-4c1a-9e25-3d55fcda4061\">6.Hauptgruppe: Chalkogene </p><p class=\"\" id=\"b3c64d16-f6a5-48e7-99d6-3fca16ad7441\">7.Hauptgruppe: Halogene </p><p class=\"\" id=\"6835e57e-f54b-4946-9a75-0bac1ff1d0f1\">8.Hauptgruppe: Edelgase </p></div></details></li></ul>",
-                                "<p class=\"\" id=\"aab9fcb8-be78-4ff1-bb0a-6dd3ec28d166\">1.Hauptgruppe: Alkalimetalle </p><p class=\"\" id=\"cfcfc99b-0b3b-40bc-9b5c-89d8a2784d1e\">2.Hauptgruppe: Erdalkalimetalle </p><p class=\"\" id=\"e21fb55b-e22c-4aea-8e38-b5ec3bc36cd7\">3.Hauptgruppe: Erdmetalle </p><p class=\"\" id=\"e3dc705c-98b9-40f6-ba48-73bc703287fc\">4.Hauptgruppe: Kohlenstoffgruppe</p><p class=\"\" id=\"1ebcd6aa-f94c-48a9-8735-887dcacbb635\">5.Hauptgruppe: Stickstoffgruppe </p><p class=\"\" id=\"257e64cd-f8b2-4c1a-9e25-3d55fcda4061\">6.Hauptgruppe: Chalkogene </p><p class=\"\" id=\"b3c64d16-f6a5-48e7-99d6-3fca16ad7441\">7.Hauptgruppe: Halogene </p><p class=\"\" id=\"6835e57e-f54b-4946-9a75-0bac1ff1d0f1\">8.Hauptgruppe: Edelgase </p>",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "vxYMFHGHOA",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         },
