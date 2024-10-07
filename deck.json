@@ -8071,8 +8071,8 @@
                                         "blephar-",
                                         "Augenlied",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "we-NLX|-%6",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -13050,8 +13050,8 @@
                                         "omentum",
                                         "Netz",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "n{iQzreht4",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -13609,8 +13609,8 @@
                                         "pharynx",
                                         "Rachen, Schlund",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "OoSQyFJ5ei",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -15808,8 +15808,8 @@
                                         "teres",
                                         "stielrund",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "z6dro*shp8",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -16211,8 +16211,8 @@
                                         "tropho-",
                                         "Nahrung, Ernährung",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "eWVb2SKs9.",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -43300,10 +43300,10 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "&nbsp;Foramen ischiadicum",
-                                        "<div style=\"text-align: left;\"><b>Foramen ischiadicum majus</b></div><div style=\"text-align: left;\">- geteilt durch M. pirifirmis&nbsp;</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp;→ Foramen suprapiriforme: A. &amp; V. glutea superior / N. gluteus superior</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp;→ Foramen infrapiriforme:&nbsp; &nbsp;A. &amp; V. glutea inferior / N. gluteus inferior</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A. &amp; V. pudenda interna / N. pudendus</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; N. ischiadicus</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; N. cutaneus femoris post.</div><div style=\"text-align: left;\"><br></div><b><div style=\"text-align: left;\"><b>Foramen ischiadicum minus</b></div></b><div style=\"text-align: left;\">- A. &amp; V. pudenda interna</div><div style=\"text-align: left;\">- N. pudendus</div><div style=\"text-align: left;\">- M. obturatorius internus</div>",
+                                        "<div style=\"text-align: left;\"><b>Foramen ischiadicum majus</b></div><div style=\"text-align: left;\">- geteilt durch M. piriformis&nbsp;</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp;→ Foramen suprapiriforme: A. &amp; V. glutea superior / N. gluteus superior</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp;→ Foramen infrapiriforme:&nbsp; &nbsp;A. &amp; V. glutea inferior / N. gluteus inferior</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A. &amp; V. pudenda interna / N. pudendus</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; N. ischiadicus</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; N. cutaneus femoris post.</div><div style=\"text-align: left;\"><br></div><b><div style=\"text-align: left;\"><b>Foramen ischiadicum minus</b></div></b><div style=\"text-align: left;\">- A. &amp; V. pudenda interna</div><div style=\"text-align: left;\">- N. pudendus</div><div style=\"text-align: left;\">- M. obturatorius internus</div>",
                                         "<img src=\"IMG_59A0E805A00E-1.jpeg\" width=\"1000\">",
-                                        "",
-                                        ""
+                                        "Topografie Becken",
+                                        "Sisyphos"
                                     ],
                                     "guid": "N69&,>(XFv",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -45223,6 +45223,37 @@
                     ],
                     "reviewLimit": null,
                     "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "2dc8cc26-84c8-11ef-bd6d-60f677a7f746",
+                    "deck_config_uuid": "b3c2df35-c040-11ee-861a-60f677a7f746",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Zellprozesse",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Second messenger",
+                                "Regulation des Stoffwechsels, der Genexpression und des Cytoskeletts\n\n",
+                                "",
+                                "Regulation",
+                                "Sisyphos"
+                            ],
+                            "guid": "kB/&5K{M>6",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        }
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 }
             ],
             "crowdanki_uuid": "843a195c-c063-11ee-8f44-60f677a7f746",
@@ -45723,19 +45754,6 @@
                         "Sisyphos"
                     ],
                     "guid": "P|>.;?K>>",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Second messenger",
-                        "Regulation des Stoffwechsels, der Genexpression und des Cytoskeletts\n\n",
-                        "",
-                        "Regulation",
-                        "Sisyphos"
-                    ],
-                    "guid": "kB/&5K{M>6",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                     "tags": []
                 },
@@ -47831,6 +47849,19 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Welche Art von Stößen gibt ist und worin unterscheiden sich Hin- und Rückreaktion ?",
+                                "- nur ein Teil aller Stöße zwischen den Teilchen ist reaktiv\n<br>- Unterschied: Anteil der reaktiven Stöße",
+                                "",
+                                "Grundlagen",
+                                "Sisyphos"
+                            ],
+                            "guid": "omdhH66?,?",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "Einfluss von hoher bzw. niedriger Aktivierungsenergie",
                                 "<ul><li><strong>Niedrige</strong> Aktivierungsenergie: <strong>hohe</strong> Energieverteilung</li><ul><li><strong>kleinere Menge an Teilchen</strong> gebraucht, weil mehr Energie gebraucht wird, um die <strong>gleiche Anzahl an reaktiven Stößen</strong> zu erreichen. </li></ul><li><strong>Hohe</strong> Aktivierungsenergie: <strong>geringere</strong> Energieverteilung, </li><ul><li><strong>größere</strong> <strong>Anzahl</strong> an Teilchen, da mehr Energie benötigt wird, um die benötigte Anzahl an reaktiven Stößen zu erreichen.</li></ul></ul>",
                                 "",
@@ -49732,7 +49763,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_208.png\" width=\"1000\">",
-                                        "<div style=\"text-align: center;\">Bernsteinsäure</div><div style=\"text-align: left;\">Muss man lernen; die zwei Säuregruppen machen sie zu einer <b>Di</b>säure. Im Prinzip ist das hier die Buttersäure mit einer zusätzlichen Säuregruppe.&nbsp;</div><div style=\"text-align: left;\">Vielleicht kann man sich das damit merken, dass beide mit B anfangen&nbsp;</div>",
+                                        "<div style=\"text-align: center;\">Bernsteinsäure</div><div style=\"text-align: left;\">Muss man lernen; die zwei Säuregruppen machen sie zu einer <b>Di</b>säure.&nbsp;</div><div style=\"text-align: left;\">Im Prinzip ist das hier die Buttersäure mit einer zusätzlichen Säuregruppe.&nbsp;</div><div style=\"text-align: left;\">Vielleicht kann man sich das damit merken, dass beide mit B anfangen&nbsp;</div>",
                                         "",
                                         "Strukturformeln",
                                         "Sisyphos"
@@ -51571,11 +51602,11 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<ul id=\"ee8a6d39-c06f-4b5d-95fe-dfae0b123eea\" class=\"toggle\"><li><details><summary>Autoprotolyse des Wassers </summary><div><p class=\"\" id=\"53313cff-f20d-4286-ad3e-36e47f5dc887\">2 H20 → H+ + OH-</p></div></details></li></ul>",
-                                "<p class=\"\" id=\"53313cff-f20d-4286-ad3e-36e47f5dc887\">2 H20 → H+ + OH-</p>",
+                                "Autoprotolyse des Wassers",
+                                "Eigendissoziation des Wassers<br>\\[H_2O + H_2O \\rightleftharpoons H_3O^+ +OH^-\\]<br>",
                                 "",
-                                "",
-                                ""
+                                "Säure Base",
+                                "Sisyphos"
                             ],
                             "guid": "bivog8@>L<",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -51669,6 +51700,19 @@
                                 "Sisyphos"
                             ],
                             "guid": "PLuMFQP-K2",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ampholyte&nbsp;",
+                                "<div style=\"text-align: left;\">Keine Pufferlösung&nbsp;</div><div style=\"text-align: left;\">Lösungen mit einem amophthere Salz: pH= 0,5 (pKs1 + pKs2)</div><div style=\"text-align: left;\">Beispiel für ein amphotheres Salz:&nbsp;</div><div style=\"text-align: left;\">Phosphorsäure besitzt 3 Wasserstoffatome, welches es abgeben kann.&nbsp;</div><div style=\"text-align: left;\">Gibt es ein oder zwei Wasserstoffatome ab, kann es sauer reagieren oder Wasserstoffprotonen aufnehmen, also basisch reagieren.&nbsp;</div>",
+                                "",
+                                "Säure Base&nbsp;",
+                                "Sisyphos"
+                            ],
+                            "guid": "nn;Y/KSKiv",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         },
@@ -52180,26 +52224,13 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<ul id=\"9b6694e8-d751-4b7f-b7fc-87238cb7cf69\" class=\"toggle\"><li><details><summary>Formeln zur Stöchiometrie </summary><div><p class=\"\" id=\"26cc150a-6caf-4c4a-bebc-f70f6f48b842\">Aufstellen von Formeln und Reaktionsgleichungen </p><p class=\"\" id=\"b208e53a-eb80-4e20-9eed-0c3958f88f42\">Quantitative chemische Berechnungen </p><p class=\"\" id=\"d7cffa29-8e25-4772-9f78-94727c99ce54\">Die Reaktionsgleichung mit den korrekten stöchiometrischen Zahlen\na A + b B → c C + d D </p><p class=\"\" id=\"328b8fe2-aa4f-4526-8c9d-f4b421ef90da\">z.B. 2 H2 + O2 → 2 H2O</p></div></details></li></ul>",
-                                "<p class=\"\" id=\"26cc150a-6caf-4c4a-bebc-f70f6f48b842\">Aufstellen von Formeln und Reaktionsgleichungen </p><p class=\"\" id=\"b208e53a-eb80-4e20-9eed-0c3958f88f42\">Quantitative chemische Berechnungen </p><p class=\"\" id=\"d7cffa29-8e25-4772-9f78-94727c99ce54\">Die Reaktionsgleichung mit den korrekten stöchiometrischen Zahlen\na A + b B → c C + d D </p><p class=\"\" id=\"328b8fe2-aa4f-4526-8c9d-f4b421ef90da\">z.B. 2 H2 + O2 → 2 H2O</p>",
+                                "Formeln zur Stöchiometrie",
+                                "<ul><li>Aufstellen von Formeln und Reaktionsgleichungen\n</li><li>Quantitative chemische Berechnungen\n</li><li>Die Reaktionsgleichung mit den korrekten stöchiometrischen Zahlen&nbsp;</li><ul><li>a A + b B → c C + d D\n</li></ul><li>&nbsp;z.B. 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O</li></ul>",
                                 "",
-                                "",
-                                ""
+                                "Grundlagen",
+                                "Sisyphos"
                             ],
                             "guid": "K%]rp8{2(L",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<ul id=\"473be3ed-18d7-4317-addc-1387c44546e1\" class=\"toggle\"><li><details><summary>Gesetz der <strong>konstanten</strong> und multiplen Proportionen </summary><div><p class=\"\" id=\"1e46f697-5846-4604-a532-fe7be0d03f12\">Atome als kleine Materiekügelchen mit bestimmter Masse m und Größe r\nkönnen sich stets nur in ganzzahligen Stoffmengen-Verhältnissen verbinden !\nWasserstoff und Sauerstoff reagieren hier im Stoffmengen-Verhältnis 2 : 1 miteinander\n• Die kleinste mögliche Stoffmenge n der Elemente H und O ist 1 Atom\n• Die kleinste mögliche Stoffmenge n der Verbindung Wasser ist 1 H2O - Molekül\n• Dazu müssen jeweils 2 H-Atome mit 1 O-Atom im Verhältnis 2 : 1 reagieren</p><p class=\"\" id=\"05e5530b-6a18-4092-9d0b-73476f543739\">• Beide Elemente liegen aber nicht als einzelne Atome, sondern als Moleküle vor\n• Daher reagieren minimal 2 H2-Moleküle mit 1 O2-Molekül zu 2 H2O-Molekülen</p></div></details></li></ul>",
-                                "<p class=\"\" id=\"1e46f697-5846-4604-a532-fe7be0d03f12\">Atome als kleine Materiekügelchen mit bestimmter Masse m und Größe r\nkönnen sich stets nur in ganzzahligen Stoffmengen-Verhältnissen verbinden !\nWasserstoff und Sauerstoff reagieren hier im Stoffmengen-Verhältnis 2 : 1 miteinander\n• Die kleinste mögliche Stoffmenge n der Elemente H und O ist 1 Atom\n• Die kleinste mögliche Stoffmenge n der Verbindung Wasser ist 1 H2O - Molekül\n• Dazu müssen jeweils 2 H-Atome mit 1 O-Atom im Verhältnis 2 : 1 reagieren</p><p class=\"\" id=\"05e5530b-6a18-4092-9d0b-73476f543739\">• Beide Elemente liegen aber nicht als einzelne Atome, sondern als Moleküle vor\n• Daher reagieren minimal 2 H2-Moleküle mit 1 O2-Molekül zu 2 H2O-Molekülen</p>",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "d<I`l1@F]D",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         },
@@ -52317,19 +52348,6 @@
                                 ""
                             ],
                             "guid": "w%n!3tx[)c",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<ul id=\"2198e1a4-5d30-4467-b010-f00e6d3fc9cf\" class=\"toggle\"><li><details><summary>Welche Art von Stößen gibt ist und worin unterscheiden sich Hin— und Rückreaktion </summary><div><p class=\"\" id=\"8a17e71b-b4b6-4a56-97dd-2822928be848\">– nur <strong>ein Teil aller Stöße</strong> zwischen den Teilchen ist  reaktiv </p><p class=\"\" id=\"3ff4840a-a39a-49f5-8868-8762b61c68f6\">– Unterschied: <strong>Anteil</strong> der reaktiven Stöße </p></div></details></li></ul>",
-                                "<p class=\"\" id=\"8a17e71b-b4b6-4a56-97dd-2822928be848\">– nur <strong>ein Teil aller Stöße</strong> zwischen den Teilchen ist  reaktiv </p><p class=\"\" id=\"3ff4840a-a39a-49f5-8868-8762b61c68f6\">– Unterschied: <strong>Anteil</strong> der reaktiven Stöße </p>",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "omdhH66?,?",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         },
@@ -52486,19 +52504,6 @@
                                 "Sisyphos"
                             ],
                             "guid": "IqiI=NB-Z>",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Ampholyte&nbsp;",
-                                "Keine Pufferlösung&nbsp;<div>Lösungen mit einem amophthere Salz: pH= 0,5 (pKs1 + pKs2)</div><div>Beispiel für ein amphotheres Salz:&nbsp;</div><div>Phosphorsäure besitzt 3 Wasserstoffatome, welches es abgeben kann. Gibt es ein oder zwei Wasserstoffatome ab, kann es sauer (indem es ein oder zwei weitere abgibt) reagieren oder Wasserstoffprotonen aufnehmen, also basisch (indem es ein oder zwei weitere aufnimmt) reagieren.&nbsp;</div>",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "nn;Y/KSKiv",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         },
