@@ -10801,8 +10801,8 @@
                                         "hapto-",
                                         "anheften, berühren",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "b!z&J+/EN2",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -11451,8 +11451,8 @@
                                         "ischion, ischium",
                                         "Hüftgelenk, Gesäß",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "fWH/0eRQmz",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -16081,8 +16081,8 @@
                                         "trans-",
                                         "hinüber, jenseits",
                                         "",
-                                        "",
-                                        ""
+                                        "Wörterbuch",
+                                        "Sisyphos"
                                     ],
                                     "guid": "qeqSm0;T5}",
                                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -40799,7 +40799,7 @@
                                                 "<img src=\"IMG_7E07636688C3-1.jpeg\">",
                                                 "<img src=\"91f36f491b0946339415f90afacd418b-ao-3-Q.svg\">",
                                                 "",
-                                                "<b>Ursprung:</b><br>- Außenfläche der 5.-12. Rippe<br><br><b>Ansatz:</b><br>- Crista iliaca (Labrum externum)<br>- Vorderes Blatt der Rektusscheide (Linea Alba)<br><br><b>Funktion:</b><br>- einseitig:&nbsp;<br>&nbsp; &nbsp; →&nbsp;Rumpfneigung zur ipsilateralen Seite<br>&nbsp; &nbsp; →&nbsp;Rotation des Rumpofes zur kollateralen Seite<br>- beidseitig:<br>&nbsp; &nbsp; →&nbsp;Ventralflexion des Rumpfes<br>&nbsp; &nbsp; →&nbsp;Aufrichtung Becken<br>&nbsp; &nbsp; →&nbsp;Ausatmung und Bauchpresse<br><br><b>Innervation:<br></b>- N. intercostales (Th 5-12)<br><br><img src=\"IMG_19AB5EF3A5CD-1.jpeg\">",
+                                                "<b>Ursprung:</b><br>- Außenfläche der 5.-12. Rippe<br><br><b>Ansatz:</b><br>- Crista iliaca (Labrum externum)<br>- Vorderes Blatt der Rektusscheide (Linea Alba)<br><br><b>Funktion:</b><br>- einseitig:&nbsp;<br>&nbsp; &nbsp; →&nbsp;Rumpfneigung zur ipsilateralen Seite<br>&nbsp; &nbsp; →&nbsp;Rotation des Rumpofes zur kollateralen Seite<br>- beidseitig:<br>&nbsp; &nbsp; →&nbsp;Ventralflexion des Rumpfes<br>&nbsp; &nbsp; →&nbsp;Aufrichtung Becken<br>&nbsp; &nbsp; →&nbsp;Ausatmung und Bauchpresse<br><br><b>Innervation:<br></b>- N. intercostales (Th 5-12)<br><br><img src=\"IMG_19AB5EF3A5CD-1.jpeg\" width=\"800\">",
                                                 "",
                                                 "",
                                                 "",
@@ -44889,10 +44889,10 @@
                             "__type__": "Note",
                             "fields": [
                                 "Worin unterscheiden sich Ribosomen am ER von solchen, die frei im Cytoplasma schwimmen?",
-                                "Identischer Aufbau, einziger Unterschied ist der Typ Protein, der gerade synthetisiert wird, bei Ribosomen am ER sind das Proteine, die ein Signalpeptid tragen und bei ihrer Synthese ins ER eingeschleust werden sollen",
+                                "<ul><li>Identischer Aufbau, </li><li>einziger Unterschied ist der Typ Protein, der gerade synthetisiert wird, </li><li>bei Ribosomen am ER sind das Proteine, die ein Signalpeptid tragen und bei ihrer Synthese ins ER eingeschleust werden sollen</li></ul>",
                                 "",
-                                "",
-                                ""
+                                "Kursfragen",
+                                "Sisyphos"
                             ],
                             "guid": "Mlw53g3C33",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -44917,8 +44917,8 @@
                                 "Wo werden die Glykolipide mit ihren Zuckerketten versehen?",
                                 "Golgi-Apparat",
                                 "",
-                                "",
-                                ""
+                                "Kursfragen",
+                                "Sisyphos"
                             ],
                             "guid": "z.:ajDw}T3",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -45004,6 +45004,19 @@
                                 "Sisyphos"
                             ],
                             "guid": "nxrWe)R/Yc",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Einschleusen des Proteins ins ER",
+                                "<ul><li>Abschneiden eines des Signalpeptids bei Durchtritt durch den Translokator (Enzym: Signalpeptidase)\n</li><li>Im einfachsten Fall: Protein enthält weiteren hydrophoben Abschnitt&nbsp;</li><ul><li>→ bleibt im Translokator hängen&nbsp;</li><ul><li>∟Translokator muss also ebenfalls hydrophob an der Innenseite sein, weil er sich sonst von der AS abstoßen würde</li></ul></ul><li>→ Bindung des Proteins: seitliche Öffnung der Pore, sodass Protein in die Pore geschoben wird\n</li><li>→ Verankerung mit einer transmembranen Domäne und Anschneidung des Signalpeptids</li></ul>",
+                                "",
+                                "Proteine",
+                                "Sisyphos"
+                            ],
+                            "guid": "xP#@;:/{V2",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         }
@@ -45269,6 +45282,7 @@
                 "Geisselquerschnitt-1-big.jpg",
                 "IMG_05DA0B3DC902-1.jpeg",
                 "hyaluronsaeure.svg",
+                "lipide-grafik-cholesterin-partikel.jpg",
                 "membrantransport__2__md.jpg",
                 "paste-1157f661f688430ae433a8425e3a393806e80d41.jpg"
             ],
@@ -45488,10 +45502,10 @@
                     "__type__": "Note",
                     "fields": [
                         "Kennen Sie Gifte, die auf Mikrotubuli wirken?",
-                        "Taxol stabilisiert, Colchicin verhindert Polymerisation)",
+                        "Taxol (stabilisiert), <br>Colchicin (verhindert Polymerisation)",
                         "",
-                        "",
-                        ""
+                        "Gifte",
+                        "Sisyphos"
                     ],
                     "guid": "m_xH1%w,oU",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -46202,11 +46216,11 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<ul id=\"d7c80b4a-74f8-4ebc-b0ac-8cc03826caf5\" class=\"toggle\"><li><details><summary>Funktion des cilliären Dynesins </summary><div><p class=\"\" id=\"b40e494f-92c4-4e2c-a7fb-754f3c61b389\">Bewegung von Cilien und Geißeln: Aktivität des sog. ciliären Dyneins fest an einem Mikrotubulus verankert, gleitet - unter ATP-Verbrauch - am benachbarten Mikrotubulus entlang</p><p class=\"\" id=\"b8741fdf-b914-4e7e-9964-f706e0475f62\">Mikrotubuli aus einer Flagelle isoliert und von ihren assoziierten Proteinen trennt → durch die Dynein-Arme aneinander vorbei geschoben</p><p class=\"\" id=\"467a63b8-66f3-4351-8a4e-1e15761e8289\">→In intakten Flagellen sind die Mikrotubuli daher durch zahlreiche assoziierte Proteine miteinander verbunden, so dass die Aktivität der Dynein-Arme zu einem Abscheren der elastischen Axoneme führt. </p></div></details></li></ul>",
-                        "<p class=\"\" id=\"b40e494f-92c4-4e2c-a7fb-754f3c61b389\">Bewegung von Cilien und Geißeln: Aktivität des sog. ciliären Dyneins fest an einem Mikrotubulus verankert, gleitet - unter ATP-Verbrauch - am benachbarten Mikrotubulus entlang</p><p class=\"\" id=\"b8741fdf-b914-4e7e-9964-f706e0475f62\">Mikrotubuli aus einer Flagelle isoliert und von ihren assoziierten Proteinen trennt → durch die Dynein-Arme aneinander vorbei geschoben</p><p class=\"\" id=\"467a63b8-66f3-4351-8a4e-1e15761e8289\">→In intakten Flagellen sind die Mikrotubuli daher durch zahlreiche assoziierte Proteine miteinander verbunden, so dass die Aktivität der Dynein-Arme zu einem Abscheren der elastischen Axoneme führt. </p>",
+                        "Funktion des cilliären Dynesins",
+                        "<ul><li>Bewegung von Cilien und Geißeln:&nbsp;</li><ul><li>Aktivität des sog. ciliären Dyneins fest an einem Mikrotubulus verankert,&nbsp;</li><li>gleitet - unter ATP-Verbrauch - am benachbarten Mikrotubulus entlang\n</li></ul><li>Mikrotubuli aus einer Flagelle isoliert und von ihren assoziierten Proteinen trennt&nbsp;</li><ul><li>→ durch die Dynein-Arme aneinander vorbei geschoben\n</li></ul><li>→ In intakten Flagellen sind die Mikrotubuli daher durch zahlreiche assoziierte Proteine miteinander verbunden, so dass die Aktivität der Dynein-Arme zu einem Abscheren der elastischen Axoneme führt.</li></ul>",
                         "",
-                        "",
-                        ""
+                        "Zellorganelle",
+                        "Sisyphos"
                     ],
                     "guid": "PbNu7oiHU5",
                     "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -46423,19 +46437,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Einschleusen des Proteins ins ER",
-                        "<ul><li>Abschneiden eines des Signalpeptids bei Durchtritt durch den Translokator (Enzym: Signalpeptidase)\n</li><li>Im einfachsten Fall: Protein enthält weiteren hydrophoben Abschnitt&nbsp;</li><ul><li>→ bleibt im Translokator hängen&nbsp;</li><ul><li>∟Translokator muss also ebenfalls hydrophob an der Innenseite sein, weil er sich sonst von der AS abstoßen würde</li></ul></ul><li>→ Bindung des Proteins: seitliche Öffnung der Pore, sodass Protein in die Pore geschoben wird\n</li><li>→ Verankerung mit einer transmembranen Domäne und Anschneidung des Signalpeptids</li></ul>",
-                        "",
-                        "Proteine",
-                        "Sisyphos"
-                    ],
-                    "guid": "xP#@;:/{V2",
-                    "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Glykolisierung",
                         "<ul><li>Vorgefertigtes Zuckerbäumchen wird durch ein spezifisches Enzym an einen Asparaginrest angehängt\n</li><li>Bindung an eine Aminogruppe des Asparagins → N-Glykolisierung\n</li><li>→ Glykoproteine</li></ul>",
                         "",
@@ -46568,7 +46569,7 @@
                     "fields": [
                         "Transport von Cholesterin im Blut",
                         "<ul><li>Mit Hilfe von LDL-Partikeln kann Cholesterin zur Versorgung der Körperzellen im Blut transportiert werden. </li><li>∟Organisiert wird ein LDL-Partikel von einem großen Protein (Apolipoprotein),</li><ul><li>vermittelt auch die Bindung an den spezifischen LDL-Rezeptor auf der Oberfläche vieler Körperzellen.</li></ul><li>Im inneren des Komplexes aus einem Lipoprotein: Cholesterylestermolekül\n</li><li>Außen: Cholesterinmolekül in Phosphorlipid- Einzelschicht gepackt</li></ul>",
-                        "",
+                        "<img alt=\"LDL-Cholesterin: Aufgaben des Lipoproteins | lipide.info\" src=\"lipide-grafik-cholesterin-partikel.jpg\" width=\"600\">",
                         "Cholesterin",
                         "Sisyphos"
                     ],
@@ -47849,6 +47850,19 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Was besagt das Stoßmodell",
+                                "<ul><li>Es müssen bei Hin- und Rückreaktion die gleiche Anzahl an reaktiver Stöße durchgeführt werden</li><li>&nbsp;D.h. die Anzahl der reaktiven Stöße pro Zeiteinheit ist gleich</li></ul>",
+                                "",
+                                "Grundlagen",
+                                "Sisyphos"
+                            ],
+                            "guid": "w%n!3tx[)c",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "Welche Art von Stößen gibt ist und worin unterscheiden sich Hin- und Rückreaktion ?",
                                 "- nur ein Teil aller Stöße zwischen den Teilchen ist reaktiv\n<br>- Unterschied: Anteil der reaktiven Stöße",
                                 "",
@@ -48020,6 +48034,19 @@
                     "newLimit": null,
                     "newLimitToday": null,
                     "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Einfluss eines Katalysators",
+                                "<ul><li>Setzt die nötige Aktivierungsenergie herab</li><li>Funktioniert meist über ein Intermediat</li><li>Enzyme sind Katalysatoren im Menschen</li><li>Verschiebt das Gleichgewicht auf die Seite der Produkte</li></ul>",
+                                "",
+                                "Kinetik",
+                                "Sisyphos"
+                            ],
+                            "guid": "mT=bj)@YQ^",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
                         {
                             "__type__": "Note",
                             "fields": [
@@ -48800,7 +48827,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<img src=\"Moleküle und Namen Zuordnung thematisch (1)1024_89.png\" width=\"1000\">",
-                                        "<div style=\"text-align: center;\">Brenzcatechin (1,2-Dihydroxybenzol)</div><div style=\"text-align: left;\">Am IUPAC Namen (der in der Klammer) erkennt man gut um welches Molekül es sich handelt. Auch hier findet sich wieder ein aromatischer Ring (ungerade Anzahl an Doppelbindungen und Zyklus). Außerdem gibts hier zwei Hydroxygruppen, deshalb <b>Di</b>hydroxy.&nbsp;</div>",
+                                        "<div style=\"text-align: center;\">Brenzcatechin (1,2-Dihydroxybenzol)</div><div style=\"text-align: left;\">Am IUPAC Namen (der in der Klammer) erkennt man gut um welches Molekül es sich handelt.&nbsp;</div><div style=\"text-align: left;\">Auch hier findet sich wieder ein aromatischer Ring (ungerade Anzahl an Doppelbindungen und Zyklus).&nbsp;</div><div style=\"text-align: left;\">Außerdem gibts hier zwei Hydroxygruppen, deshalb <b>Di</b>hydroxy.&nbsp;</div>",
                                         "",
                                         "Strukturformeln",
                                         "Sisyphos"
@@ -51399,6 +51426,19 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Schwefelsäure",
+                                "H<sub>2</sub>SO<sub>4</sub>, HSO<sub>4</sub><sup>-</sup> (Hydrogensulfat)",
+                                "",
+                                "Substanzen",
+                                "Sisyphos"
+                            ],
+                            "guid": "CDRl:wLh-&",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "Ameisensäure",
                                 "CH<sub>2</sub>O<sub>2</sub>",
                                 "",
@@ -51841,19 +51881,6 @@
                                 "Sisyphos"
                             ],
                             "guid": "N3Uw=V<um^",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<ul id=\"b8bf77ce-0b49-49cd-9e0f-bc4a4373d47c\" class=\"toggle\"><li><details><summary>Typisch für radioaktive Strahlung </summary><div><p class=\"\" id=\"dc795d9b-ea40-433e-bebc-3b76f319a957\">Exponentielle Abnahme der Stoffmenge </p><p class=\"\" id=\"c507435f-2120-4160-a765-70efc44475bc\">Ab 5 x O,5T &lt; 5% → der Stoff ist eigentlich nicht mehr vorhanden </p></div></details></li></ul>",
-                                "<p class=\"\" id=\"dc795d9b-ea40-433e-bebc-3b76f319a957\">Exponentielle Abnahme der Stoffmenge </p><p class=\"\" id=\"c507435f-2120-4160-a765-70efc44475bc\">Ab 5 x O,5T &lt; 5% → der Stoff ist eigentlich nicht mehr vorhanden </p>",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "Il9{QR/PY8",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         },
@@ -52328,45 +52355,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<ul id=\"ccc07938-43be-4057-92ba-64339177d12f\" class=\"toggle\"><li><details><summary>Schwefelsäure </summary><div><p class=\"\" id=\"f7898974-b9fc-4db7-9cd1-d48b824dc8c5\">H2S04, HS04-  (Hydrogensulfat)</p></div></details></li></ul>",
-                                "<p class=\"\" id=\"f7898974-b9fc-4db7-9cd1-d48b824dc8c5\">H2S04, HS04-  (Hydrogensulfat)</p>",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "CDRl:wLh-&",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<ul id=\"de79b031-6a91-4dcb-ab19-1bb54677775a\" class=\"toggle\"><li><details><summary>Was besagt das Stoßmodell </summary><div><p class=\"\" id=\"f691df4f-e091-4b37-b872-d206e9cece2d\">–Es müssen bei Hin– und Rückreaktion die gleiche Anzahl an reaktiver Stöße durchgeführt werden </p><p class=\"\" id=\"2ed159b5-da47-49f6-8c9e-928d35e8abfc\">– D.h. die Anzahl der reaktiven Stöße pro Zeiteinheit ist gleich </p></div></details></li></ul>",
-                                "<p class=\"\" id=\"f691df4f-e091-4b37-b872-d206e9cece2d\">–Es müssen bei Hin– und Rückreaktion die gleiche Anzahl an reaktiver Stöße durchgeführt werden </p><p class=\"\" id=\"2ed159b5-da47-49f6-8c9e-928d35e8abfc\">– D.h. die Anzahl der reaktiven Stöße pro Zeiteinheit ist gleich </p>",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "w%n!3tx[)c",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<ul id=\"c029ea15-e7a6-4683-bcce-7a081407027f\" class=\"toggle\"><li><details><summary>Einfluss eines Katalysators </summary><div><p class=\"\" id=\"e9904640-2dc1-4f33-9373-7203c36a4c8e\">Durch einen Katalysator wird das Gleichgewicht <strong>früher</strong> erreicht. Ein Katalysator hat <strong>keinen</strong> <strong>Einfluss</strong> auf die <strong>Lage des Gleichgewichts. </strong></p></div></details></li></ul>",
-                                "<p class=\"\" id=\"e9904640-2dc1-4f33-9373-7203c36a4c8e\">Durch einen Katalysator wird das Gleichgewicht <strong>früher</strong> erreicht. Ein Katalysator hat <strong>keinen</strong> <strong>Einfluss</strong> auf die <strong>Lage des Gleichgewichts. </strong></p>",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "mT=bj)@YQ^",
-                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Warum ist die Konzentration von Edukt und Produkt ungleich?",
                                 "Weil die Anzahl an reaktiven Stöße für die gleiche Teilchenzahl bei Hin und Rückreaktion unterschiedlich ist. <br>Damit die Anzahl an reaktiven Stößen gleich ist, muss sich somit die Konzentration von Edukten und Produkten unterscheiden.\n<br><br><b><u>Beispiel:</u></b>\n<br><ul><li>Bei der Hinreaktion ist einer von 2 x 2 = 4 Stößen reaktiv.\n</li><li>Bei der Rückreaktion ist einer von 4 x 4 = 16 Stößen reaktiv.\n</li><li>Somit müssen muss jeweils die Konzentration der Produktteilchen doppelt so groß sein, wie die der Eduktteilchen.</li></ul>",
                                 "",
@@ -52484,11 +52472,11 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<ul id=\"9b627d39-e3a6-4510-9872-c72f0f8a42a3\" class=\"toggle\"><li><details><summary>Korrespondierende Säure Base Paare </summary><div><p class=\"\" id=\"061f9a41-9aaa-4a9e-a6b6-bd7a3733ac86\">Zwei Teilchen, die sich nur durch ein Proton unterscheiden </p><p class=\"\" id=\"c7fa9a32-26ba-4639-932a-8db7cad10f27\">Edukt: Säure 1 → Produkt: Base 1 </p><p class=\"\" id=\"0233d239-c6cd-4ef5-a0ea-0434973ab628\">Edukt: Base 2 → Produkt: Säure 2</p><p class=\"\" id=\"f17c6524-27cb-4b8f-b4f1-f6c0595fe907\">Aufschreiben: links Säure/ rechts Base </p><p class=\"\" id=\"443e597e-a236-4120-ba30-a8b9bd56bf5c\">Schwache Base → starke Säure </p><p class=\"\" id=\"92044c1a-ef24-4f4f-83ed-0df02aaf2a3c\">Starke Base → Schwache Säure</p><p class=\"\" id=\"cdfb4fe3-d062-413a-a3f9-e36364ac24fb\">Schwache Säuren sind immer stabile Moleküle, wenn man ihnen also ein H+ wegnimmt, haben  sie ein großes Bestreben, dieses wieder zurückzubekommen. Dementsprechend sind sie ein starker Protonenakzeptor, also eine starker Base. </p></div></details></li></ul>",
-                                "<p class=\"\" id=\"061f9a41-9aaa-4a9e-a6b6-bd7a3733ac86\">Zwei Teilchen, die sich nur durch ein Proton unterscheiden </p><p class=\"\" id=\"c7fa9a32-26ba-4639-932a-8db7cad10f27\">Edukt: Säure 1 → Produkt: Base 1 </p><p class=\"\" id=\"0233d239-c6cd-4ef5-a0ea-0434973ab628\">Edukt: Base 2 → Produkt: Säure 2</p><p class=\"\" id=\"f17c6524-27cb-4b8f-b4f1-f6c0595fe907\">Aufschreiben: links Säure/ rechts Base </p><p class=\"\" id=\"443e597e-a236-4120-ba30-a8b9bd56bf5c\">Schwache Base → starke Säure </p><p class=\"\" id=\"92044c1a-ef24-4f4f-83ed-0df02aaf2a3c\">Starke Base → Schwache Säure</p><p class=\"\" id=\"cdfb4fe3-d062-413a-a3f9-e36364ac24fb\">Schwache Säuren sind immer stabile Moleküle, wenn man ihnen also ein H+ wegnimmt, haben  sie ein großes Bestreben, dieses wieder zurückzubekommen. Dementsprechend sind sie ein starker Protonenakzeptor, also eine starker Base. </p>",
+                                "Korrespondierende Säure Base Paare",
+                                "<ul><li>Zwei Teilchen, die sich nur durch ein Proton unterscheiden\n</li><li>Edukt: Säure 1 → Produkt: Base 1\n</li><li>Edukt: Base 2 → Produkt: Säure 2\n</li><li>Aufschreiben: links Säure/ rechts Base\n</li><li>Schwache Base → starke Säure\n</li><li>Starke Base → Schwache Säure\n</li><li>Schwache Säuren sind immer stabile Moleküle,&nbsp;</li><ul><li>wenn man ihnen also ein H+ wegnimmt, haben sie ein großes Bestreben, dieses wieder zurückzubekommen.&nbsp;</li><li>Dementsprechend sind sie ein starker Protonenakzeptor, also eine starker Base.</li></ul></ul>",
                                 "",
-                                "",
-                                ""
+                                "Säure Base",
+                                "Sisyphos"
                             ],
                             "guid": "QS){t`L{85",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -52775,6 +52763,19 @@
                                 "Sisyphos"
                             ],
                             "guid": "AQW!~?wFTT",
+                            "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Typisch für radioaktive Strahlung / Stoffmengen",
+                                "<ul><li>Exponentielle Abnahme der Stoffmenge</li><li>&nbsp;Ab 5 x Halbwertszeit &lt; 5% der Stoffmenge vorhanden</li></ul>",
+                                "",
+                                "Radioaktivität",
+                                "Sisyphos"
+                            ],
+                            "guid": "Il9{QR/PY8",
                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
                             "tags": []
                         },
